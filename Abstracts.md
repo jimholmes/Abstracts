@@ -4,6 +4,18 @@ These abstracts are for sessions, workshops, lightning talks, whatevs I've got i
 # Current Presentations
 These talks are ones I've been giving regularly over the last couple years.
 
+## <a name='growing_leadership'></a> Growing Into Leadership
+
+Too many of our organizations across society have poor leadership. It doesn't matter if we're talking about the military, private sector firms, or the local Cub Scout pack. Great leaders help us get the most out of our teams and ourselves, not just at the high meta level, but during each day's grind.
+
+In this session we'll talk about why you might consider stepping up into a leadership role (or evolving one you're currently in), and what things about yourself you can leverage and improve upon. It's also important to understand routes you can take to leadership. Most importantly we'll talk about getting the job done on a daily basis so you can help your team be as awesome as possible.
+
+You'll leave this session with some questions to ask of yourself, and some ideas on furthering your own leadership journey.
+
+**Audience** Anyone
+
+**Deck** Not yet published
+
 ## <a name='omg'></a> "OMG! This Codebase Sucks!" Paying Down Technical Debt While Continuing to Deliver Value
  
 Sure, you know you need to clean up the lousy codebase that's falling apart at the seams, but how are you going to figure out what to fix, how to fix it, who will fix it-and how you'll get that done while meeting the other commitments of continuing to deliver new value to your customers?
