@@ -135,6 +135,9 @@ You'll leave this session with a better understanding of how your testing expert
 ## <a name='collab'></a> Developer/Tester Collaboration: The Practical Side
  
 This talk shows attendees practical places where testers and developers can (and should be!) collaborating more frequently: creating better test cases, bringing software engineering fundamentals to automated tests, creating testable systems, and more. 
+
+The talk is focused primarily around creating automated test suites; however, overall testing runs through the talk as a secondary theme. How could it be otherwise?!
+
 Developers will learn how working more closely with a tester can help them get better coverage in unit and integration testing. They'll also see how they can help testers write much better functional tests via slight modifications to their applications' user interfaces.
 
 Testers will see how developers can help them create simpler functional test suites by learning software design concepts like Don't Repeat Yourself (DRY) and Single Responsibility Principle (SRP).
