@@ -23,7 +23,19 @@ Sure, you know you need to clean up the lousy codebase that's falling apart at t
 We'll discuss figuring out business's goals and priorities, then look to codebase metrics, defect rates, and source code churn in order to determine what areas of the codebase to work on.
 
 Armed with that information, we'll talk about different ways to negotiate getting technical debt paid off while meeting your larger goals of continuing to ship value to your customers.
+
 This talk won't cover best practices (BECAUSE THERE AREN'T ANY) nor will it attempt to convince you there are simple fixes to an unhealthy codebase. What you WILL leave with are ideas on how you can approach creating a strategy for your current situation.
+
+> Version for EuroStar targeted to testers
+> As testers we're often far too familiar with the pain of legacy codebases: extraordinarily brittle systems that explode with regressions after every release. We're also far too familiar with the fallout from those codebases: Upset stakeholders, frustrated support staff, and an angry horde of end users/customers&mdash;all of whom put the blame on the "quality assurance" group.
+
+> We can help our teams and organizations start to heal up these codebases, but we have to do it in a fashion that acknowledges the business's need to continue shipping new value to the customers/users. After all, maintaining a revenue stream is great because it helps ensure we're getting paid! 
+
+> We'll discuss figuring out business's goals and priorities, then look to codebase metrics, defect rates, and source code churn in order to determine what areas of the codebase to work on.
+
+> Armed with that information, we'll talk about different ways to negotiate getting technical debt paid off while meeting your larger goals of continuing to ship value to your customers.
+
+> This talk won't cover best practices (BECAUSE THERE AREN'T ANY) nor will it attempt to convince you there are simple fixes to an unhealthy codebase. What you WILL leave with are ideas on how you can approach creating a strategy for your current situation.
 
 **Audience:** 200-300
 
