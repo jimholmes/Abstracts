@@ -16,6 +16,31 @@ You'll leave this session with some questions to ask of yourself, and some ideas
 
 **Deck** Not yet published
 
+## <a name='leadership101Workshop'></a>Leadership 101
+
+(Four hour workshop)
+
+Have you worked for people you thought were great leaders, but weren't sure where they got that magic from? Have you seen people getting great results from their teams during difficult times and wanted to be able to get similar success with your own teams? Do you want to take on more responsibility in your career, but aren't sure how to get those opportunities? Leadership 101 will help you answer some of those questions! 
+
+Join Jim Holmes in this highly interactive workshop where you'll learn some fundamental skills and gather some tools that can help you on your leadership journey. You'll clarify what makes an effective leader, learn a few critical communication skills, and get tips on dealing with difficult people and situations. 
+
+You'll leave this workshop with a better understanding of leveraging your strengths and mitigating your weaknesses. You'll also take away approaches for ensuring you're able to best empower your teams to do amazing things.
+
+**Audience** Anyone
+**Deck** https://speakerdeck.com/jimholmes/leadership-101-workshop
+
+## <a name='why'></a>Why?
+
+Why? We don't ask it enough. We don't ask it enough of our politicians. We don't ask it enough of our colleagues. We certainly don't ask it enough of ourselves.
+
+Take some time during this session to explore how thoughtfully and respectfully pushing back on accepted norms in software delivery can help you deliver much better value to your customers. We'll look into how you can explore why your processes seem so convuluted. We'll question why your meetings might be smothering your productivity. We'll look at why your engineering/craftsmanship/phrase-du-jour approaches to writing code might be killing your quality--and sanity.
+
+We'll also look at ways you can work at injecting some much-needed change into your organization in order to address some of those "why" issues.
+
+Sorry, we're not going to address anything about politicians. Handle that in your upcoming elections!
+
+**Audience** Anyone
+
 ## <a name='omg'></a> "OMG! This Codebase Sucks!" Paying Down Technical Debt While Continuing to Deliver Value
  
 Sure, you know you need to clean up the lousy codebase that's falling apart at the seams, but how are you going to figure out what to fix, how to fix it, who will fix it-and how you'll get that done while meeting the other commitments of continuing to deliver new value to your customers?
