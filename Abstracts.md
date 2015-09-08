@@ -4,6 +4,16 @@ These abstracts are for sessions, workshops, lightning talks, whatevs I've got i
 # Current Presentations
 These talks are ones I've been giving regularly over the last couple years.
 
+## <a name='growing_testing'></a> Growing a Testing^H^H^H^H^H^H^HWhole Team Organization The Hard Way
+
+Organizational change doesn't come easy. We humans are tetchy beings who often aren't comfortable getting out of the comfy ruts we let ourselves get in.
+
+Join Jim Holmes for an experience report on how he helped a couple organizations change how they tested and delivered software. You'll learn some critical techniques for helping drive change around testing: Getting buy-in from executives and management. Hiring/staffing the right people. Helping existing team members learn to adapt--and dealing with those that won't. 
+
+You'll also learn why testing tools and test cases do NOT solve any quality issues, and you'll also hear plenty of lessons-learned and hard knocks.
+
+Stovepiped testing should have gone down with the Titanic. Learn how to help your organization get quality across your entire delivery team, not just the people you blame for not "Assuring Quality."
+
 ## <a name='growing_leadership'></a> Growing Into Leadership
 
 Too many of our organizations across society have poor leadership. It doesn't matter if we're talking about the military, private sector firms, or the local Cub Scout pack. Great leaders help us get the most out of our teams and ourselves, not just at the high meta level, but during each day's grind.
