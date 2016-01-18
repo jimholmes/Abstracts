@@ -7,7 +7,7 @@ Jim is an Executive Coach at Pillar Technology where he works with organizations
 
 **Gonzo** 
 
-Executive Coach at Pillar Technology. Owner/Principal of Guidepost Systems. Father.  Husband.  Geek. Veteran. Around 25 years IT experience. Co-author of “Windows Developer Power Tools.” Coffee Roaster.  MVP for C#.  Past President of  CodeMash Conference. Diabetic. Runner. Liked 5th grade so much he did it twice. One-time setter, middle blocker, and weakside hitter. Blogger (http://FrazzledDad.com). Big fan of naps.
+Executive Coach at Pillar Technology. Owner/Principal of Guidepost Systems. Father.  Husband. Geek. Veteran. Around 25 years IT experience. Author of The Leadership Journey. Coffee Roaster.  MVP for C#.  Past President of  CodeMash Conference. Diabetic. Runner. Liked 5th grade so much he did it twice. One-time setter, middle blocker, and weakside hitter. Blogger (http://FrazzledDad.com). Big fan of naps.
 
 
 **Tiny**
