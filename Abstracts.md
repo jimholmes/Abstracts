@@ -55,7 +55,7 @@ Sorry, we're not going to address anything about politicians. Handle that in you
  
 Sure, you know you need to clean up the lousy codebase that's falling apart at the seams, but how are you going to figure out what to fix, how to fix it, who will fix it-and how you'll get that done while meeting the other commitments of continuing to deliver new value to your customers?
 
-We'll discuss figuring out business's goals and priorities, then look to codebase metrics, defect rates, and source code churn in order to determine what areas of the codebase to work on.
+We'll discuss figuring out business's goals and priorities, then look to things like codebase metrics, defect rates, and source code churn in order to determine what areas of the codebase to work on.
 
 Armed with that information, we'll talk about different ways to negotiate getting technical debt paid off while meeting your larger goals of continuing to ship value to your customers.
 
