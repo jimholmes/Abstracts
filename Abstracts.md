@@ -14,6 +14,11 @@ You'll also learn why testing tools and test cases do NOT solve any quality issu
 
 Stovepiped testing should have gone down with the Titanic. Learn how to help your organization get quality across your entire delivery team, not just the people you blame for not "Assuring Quality."
 
+> Tweaked for StarWest
+> Testing as an "event" after developers have finished their work can't "assure" quality at all. Teams that follow stove-piped processes are losing out on tremendous potential for true, honest collaboration that can seriously transform how they deliver value to their customers. This talk walks attendees through real-life situations where teams and organizations fundamentally changed their approaches to delivering high-quality software. Specific examples tie to concrete tips and approaches to helping integrate testing as an ongoing activity across the entire lifecycle&mdash;not just a late-occurring event.
+
+
+
 ## <a name='growing_leadership'></a> Growing Into Leadership
 
 Too many of our organizations across society have poor leadership. It doesn't matter if we're talking about the military, private sector firms, or the local Cub Scout pack. Great leaders help us get the most out of our teams and ourselves, not just at the high meta level, but during each day's grind.
@@ -61,7 +66,7 @@ Armed with that information, we'll talk about different ways to negotiate gettin
 
 This talk won't cover best practices (BECAUSE THERE AREN'T ANY) nor will it attempt to convince you there are simple fixes to an unhealthy codebase. What you WILL leave with are ideas on how you can approach creating a strategy for your current situation.
 
-> Version for EuroStar targeted to testers
+> Version targeted to testing-ish conferences
 > As testers we're often far too familiar with the pain of legacy codebases: extraordinarily brittle systems that explode with regressions after every release. We're also far too familiar with the fallout from those codebases: Upset stakeholders, frustrated support staff, and an angry horde of end users/customers&mdash;all of whom put the blame on the "quality assurance" group.
 
 > We can help our teams and organizations start to heal up these codebases, but we have to do it in a fashion that acknowledges the business's need to continue shipping new value to the customers/users. After all, maintaining a revenue stream is great because it helps ensure we're getting paid! 
