@@ -28,10 +28,14 @@ Large headshot: https://www.dropbox.com/s/wkqqi4008gyskze/JimBulgaria-SquareLarg
 
 **International Conferences:** DevReach in 2012 and 2013; SQADays 2013; EuroStar 2013; AgileScrum, and STC India in 2012. 
 
+**Keynotes:** I keynoted at ISTA Conference 2015 and spoke to approximately 600 software quality professionals. Video of the talk is at https://www.youtube.com/watch?v=uFjdSqDPLSQ&feature=youtu.be.
+
 **User Groups:** I’ve lost count of the user groups I’ve spoken at. Many across the USA.
 
 **Videos of sessions:**
 Several of my sessions have been video taped: 
+
+ISTA Conference keynote "Why?" https://www.youtube.com/watch?v=uFjdSqDPLSQ&feature=youtu.be
 
 Testing Discussion Panel at Rocky Mountain Ruby:http://confreaks.net/videos/735-rockymtnruby2011-testing-panel 
 
