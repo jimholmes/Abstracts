@@ -4,6 +4,17 @@ These abstracts are for sessions, workshops, lightning talks, whatevs I've got i
 # Current Presentations
 These talks are ones I've been giving regularly over the last couple years.
 
+## <a name='better_quality'></a>More Better Quality Coverage
+
+
+How do you ensure your feature's well-built and does what the customer needs (which may be different than what they want)? How do you ensure the feature's high quality? When do you discuss things like test case construction? Test data creation? Performance needs? And let's just skip by security because that's scary.
+
+In this session we'll walk through creating a critical business feature. We'll take the journey all the way from ideation through production monitoring. You'll learn where to have various conversations about quality, and what you might consider along the way.
+
+You'll see examples of good conversations used to help business focus on high-value features. You'll also help build out solid acceptance criteria, and you'll learn where to tie those pesky "Non-functional requirements" in. We'll tie all this together with working tests and code--and you'll see how exploratory testing fits in along the entire journey.
+
+Make sure you're getting the best quality coverage of your work!
+
 ## <a name='growing_testing'></a> Growing a Testing^H^H^H^H^H^H^HWhole Team Organization The Hard Way
 
 Organizational change doesn't come easy. We humans are tetchy beings who often aren't comfortable getting out of the comfy ruts we let ourselves get in.
