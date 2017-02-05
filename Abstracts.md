@@ -15,6 +15,14 @@ You'll see examples of good conversations used to help business focus on high-va
 
 Make sure you're getting the best quality coverage of your work!
 
+## <a name='beyond_basics'></a> Automated Testing: Beyond The Basics
+
+You've been through some initial training or bootstrapping. Now you're three to six months down the road and you're finding a lot of time is being spent chasing intermittent test failures. You're spending a lot of time maintaining your codebase. You're spending a lot of time dealing with frustration and trust in the automated tests. What's you're not doing is adding a lot of value around new feature work.
+
+Sound familiar? It's a pattern that's common across nearly every team that is new to building significant automation suites. Jim Holmes helps you find a few approaches that may save your sanity&mdash;all based on years of experience and hard knocks. 
+
+This isn't a WebDriver 101 session; we won't be covering basics like waits, find logic, or basic page objects. Instead, we'll dive in to solving problems using software craftsmanship principles, custom-designed APIs, and approaches like Selenium Grid to help you scale out your test suites via parallel execution. You'll leave the session with practical tips to apply to your own testing.
+
 ## <a name='growing_testing'></a> Growing a Testing^H^H^H^H^H^H^HWhole Team Organization The Hard Way
 
 Organizational change doesn't come easy. We humans are tetchy beings who often aren't comfortable getting out of the comfy ruts we let ourselves get in.

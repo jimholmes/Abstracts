@@ -3,11 +3,11 @@
 
 **Normal**
 
-Jim is an Executive Coach at Pillar Technology where he works with organizations trying to improve their software delivery process. He's also the owner/principal of Guidepost Systems. He has been in various corners of the IT world since joining the US Air Force in 1982. He’s spent time in LAN/WAN and server management roles in addition to many years helping teams and customers deliver great systems. Jim has worked with organizations ranging from start ups to Fortune 100 companies to improve their delivery processes and ship better value to their customers. Jim’s been in many different environments but greatly prefers those adopting practices from Lean and Agile communities. When not at work you might find Jim in the kitchen with a glass of wine, playing Xbox, hiking with his family, or banished to the garage while trying to practice his guitar.
+Jim is an Executive Consultant at Pillar Technology where he works with organizations trying to improve their software delivery process. He's also the owner/principal of Guidepost Systems which lets him engage directly with struggling organizations. He has been in various corners of the IT world since joining the US Air Force in 1982. He’s spent time in LAN/WAN and server management roles in addition to many years helping teams and customers deliver great systems. Jim has worked with organizations ranging from start ups to Fortune 10 companies to improve their delivery processes and ship better value to their customers. When not at work you might find Jim in the kitchen with a glass of wine, playing Xbox, hiking with his family, or banished to the garage while trying to practice his guitar.
 
 **Gonzo** 
 
-Executive Coach at Pillar Technology. Owner/Principal of Guidepost Systems. Father.  Husband. Geek. Veteran. Around 25 years IT experience. Author of The Leadership Journey. Coffee Roaster.  MVP for C#.  Past President of  CodeMash Conference. Diabetic. Runner. Liked 5th grade so much he did it twice. One-time setter, middle blocker, and weakside hitter. Blogger (http://FrazzledDad.com). Big fan of naps.
+Executive Consultant at Pillar Technology. Owner/Principal of Guidepost Systems. Father.  Husband. Geek. Veteran. Around 25 years IT experience. Author of The Leadership Journey. Coffee Roaster.  MVP for C#.  Past President of  CodeMash Conference. Diabetic. Runner. Liked 5th grade so much he did it twice. One-time setter, middle blocker, and weakside hitter. Blogger (http://FrazzledDad.com). Big fan of naps.
 
 
 **Tiny**
@@ -28,10 +28,14 @@ Large headshot: https://www.dropbox.com/s/wkqqi4008gyskze/JimBulgaria-SquareLarg
 
 **International Conferences:** DevReach in 2012 and 2013; SQADays 2013; EuroStar 2013; AgileScrum, and STC India in 2012. 
 
+**Keynotes:** I keynoted at ISTA Conference 2015 and spoke to approximately 600 software quality professionals. Video of the talk is at https://www.youtube.com/watch?v=uFjdSqDPLSQ&feature=youtu.be.
+
 **User Groups:** I’ve lost count of the user groups I’ve spoken at. Many across the USA.
 
 **Videos of sessions:**
 Several of my sessions have been video taped: 
+
+ISTA Conference keynote "Why?" https://www.youtube.com/watch?v=uFjdSqDPLSQ&feature=youtu.be
 
 Testing Discussion Panel at Rocky Mountain Ruby:http://confreaks.net/videos/735-rockymtnruby2011-testing-panel 
 
