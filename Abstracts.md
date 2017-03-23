@@ -2,13 +2,12 @@
 These abstracts are for sessions, workshops, lightning talks, whatevs I've got in my pocket.
 
 # Current Presentations
+
 These talks are ones I've been giving regularly over the last couple years.
 
 ## <a name='stronger'></a> ...Makes You Stronger
 
-We've become a culture averse to adversity. From "no-losers" sports to "safe spaces" on campuses we make a concious effort to avoid the pain that comes from defeat or hard-to-hear differences of philosophy and outlook. 
-
-Through this fear of confronting hard things we've lost sight that our humanity shines no brighter than when we push through struggles large and small.
+We've become a culture averse to adversity. From "no-losers" sports to "safe spaces" on campuses we make a concious effort to avoid the pain that comes from defeat or hard-to-hear differences of philosophy and outlook. We take this same avoidance in to far more painful aspects of our own personal lives as well. Through this fear of confronting hard things we've lost sight that our humanity shines no brighter than when we push through struggles large and small.
 
 Our muscles and endurance only grow when we push well in to discomfort and often outright pain. Our minds, psyches, and spirts need the same hard work as well. After all, what doesn't kill you...
 
@@ -21,7 +20,11 @@ In this session we'll walk through creating a critical business feature. We'll t
 
 You'll see examples of good conversations used to help business focus on high-value features. You'll also help build out solid acceptance criteria, and you'll learn where to tie those pesky "Non-functional requirements" in. We'll tie all this together with working tests and code--and you'll see how exploratory testing fits in along the entire journey.
 
+<<<<<<< HEAD
 Make sure you're getting the best quality coverage of your work!
+=======
+Make sure you're getting the best quality coverage of your work!
+>>>>>>> f1c52a7699537180ec226638c0861fcc80fcb980
 
 ## <a name='beyond_basics'></a> Automated Testing: Beyond The Basics
 
