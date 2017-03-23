@@ -4,6 +4,25 @@ These abstracts are for sessions, workshops, lightning talks, whatevs I've got i
 # Current Presentations
 These talks are ones I've been giving regularly over the last couple years.
 
+## <a name='stronger'></a> ...Makes You Stronger
+
+We've become a culture averse to adversity. From "no-losers" sports to "safe spaces" on campuses we make a concious effort to avoid the pain that comes from defeat or hard-to-hear differences of philosophy and outlook. 
+
+Through this fear of confronting hard things we've lost sight that our humanity shines no brighter than when we push through struggles large and small.
+
+Our muscles and endurance only grow when we push well in to discomfort and often outright pain. Our minds, psyches, and spirts need the same hard work as well. After all, what doesn't kill you...
+
+## <a name='better_quality'></a>More Better Quality Coverage
+
+
+How do you ensure your feature's well-built and does what the customer needs (which may be different than what they want)? How do you ensure the feature's high quality? When do you discuss things like test case construction? Test data creation? Performance needs? And let's just skip by security because that's scary.
+
+In this session we'll walk through creating a critical business feature. We'll take the journey all the way from ideation through production monitoring. You'll learn where to have various conversations about quality, and what you might consider along the way.
+
+You'll see examples of good conversations used to help business focus on high-value features. You'll also help build out solid acceptance criteria, and you'll learn where to tie those pesky "Non-functional requirements" in. We'll tie all this together with working tests and code--and you'll see how exploratory testing fits in along the entire journey.
+
+Make sure you're getting the best quality coverage of your work!
+
 ## <a name='beyond_basics'></a> Automated Testing: Beyond The Basics
 
 You've been through some initial training or bootstrapping. Now you're three to six months down the road and you're finding a lot of time is being spent chasing intermittent test failures. You're spending a lot of time maintaining your codebase. You're spending a lot of time dealing with frustration and trust in the automated tests. What's you're not doing is adding a lot of value around new feature work.
