@@ -7,7 +7,7 @@ These talks are ones I've been giving regularly over the last couple years.
 
 ## <a name='stronger'></a> ...Makes You Stronger
 
-We've become a culture averse to adversity. From "no-losers" sports to "safe spaces" on campuses we make a concious effort to avoid the pain that comes from defeat or hard-to-hear differences of philosophy and outlook. We take this same avoidance in to far more painful aspects of our own personal lives as well. Through this fear of confronting hard things we've lost sight that our humanity shines no brighter than when we push through struggles large and small.
+We've become a culture averse to adversity. From "no-losers" sports to "safe spaces" on campuses we make a conscious effort to avoid the pain that comes from defeat or hard-to-hear differences of philosophy and outlook. We take this same avoidance in to far more painful aspects of our own personal lives as well. Through this fear of confronting hard things we've lost sight that our humanity shines no brighter than when we push through struggles large and small.
 
 Our muscles and endurance only grow when we push well in to discomfort and often outright pain. Our minds, psyches, and spirts need the same hard work as well. After all, what doesn't kill you...
 
