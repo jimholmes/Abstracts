@@ -7,12 +7,12 @@ Jim is an Executive Consultant at Pillar Technology where he works with organiza
 
 **Gonzo** 
 
-Executive Consultant at Pillar Technology. Owner/Principal of Guidepost Systems. Father.  Husband. Geek. Veteran. Around 25 years IT experience. Author of The Leadership Journey. Coffee Roaster.  MVP for C#.  Past President of  CodeMash Conference. Diabetic. Runner. Liked 5th grade so much he did it twice. One-time setter, middle blocker, and weakside hitter. Blogger (http://FrazzledDad.com). Big fan of naps.
+Single Dad. Widower. Geek. Veteran. Around 25 years IT experience. Author of The Leadership Journey. Coffee Roaster.  MVP for C#.  Past President of  CodeMash Conference. Diabetic. Runner. Liked 5th grade so much he did it twice. One-time setter, middle blocker, and weakside hitter. Blogger (http://FrazzledDad.com). Big fan of naps.
 
 
 **Tiny**
 
-Father. Husband. Geek. Veteran. Community Guy. Blogger (FrazzledDad.com). Big fan of Naps. 
+Single Dad. Widower. Geek. Veteran. Community Guy. Blogger (FrazzledDad.com). Big fan of Naps. 
 
 # Headshots
 Small headshot: https://www.dropbox.com/s/pz2nd05ftq6ib0t/JimBulgaria-200x200.png?dl=0
