@@ -20,11 +20,8 @@ In this session we'll walk through creating a critical business feature. We'll t
 
 You'll see examples of good conversations used to help business focus on high-value features. You'll also help build out solid acceptance criteria, and you'll learn where to tie those pesky "Non-functional requirements" in. We'll tie all this together with working tests and code--and you'll see how exploratory testing fits in along the entire journey.
 
-<<<<<<< HEAD
 Make sure you're getting the best quality coverage of your work!
-=======
-Make sure you're getting the best quality coverage of your work!
->>>>>>> f1c52a7699537180ec226638c0861fcc80fcb980
+
 
 ## <a name='beyond_basics'></a> Automated Testing: Beyond The Basics
 
