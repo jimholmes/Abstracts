@@ -24,9 +24,9 @@ Large headshot: https://www.dropbox.com/s/wkqqi4008gyskze/JimBulgaria-SquareLarg
 
 **Regional Code Camps:** I've spoken at code camps in Ohio, Michigan and Indiana. 
 
-**Major Conferences:** I've spoken at numerous conferences across the USA. A ***partial*** list includes: CodeMash in 2006, 2007, 2008, 2014, 2015; ThatConference 2014; the Tyson Developers Conference in 2009 and 2010; devLink 2009 and 2010; eRubyCon 2009; Rocky Mountain Ruby 2011; Path to Agility 2011, 2013, and 2014; Stir Trek 2011, 2013, and 2014; StarWEST 2011 in Anaheim, Kalamazoo X Conference in 2009, 2011, and 2013; DevConnections 2011; STPCon in 2012 and 2013; QUEST in 2012, and 2013; StarEast 2012;PNSQC 2012; Path to Agility 2010, 2011, 2013, 2014.
+**Major Conferences:** I've spoken at numerous conferences across the USA. A ***partial*** list includes: CodeMash in 2006, 2007, 2008, 2014, 2015, 2016; ThatConference 2014; the Tyson Developers Conference in 2009 and 2010; devLink 2009 and 2010; eRubyCon 2009; Rocky Mountain Ruby 2011; Path to Agility 2011, 2013, and 2014; Stir Trek 2011, 2013, and 2014; StarWEST 2011 in Anaheim, Kalamazoo X Conference in 2009, 2011, and 2013; DevConnections 2011; STPCon in 2012 and 2013; QUEST in 2012, and 2013; StarEast 2012;PNSQC 2012; Path to Agility 2010, 2011, 2013, 2014.
 
-**International Conferences:** DevReach in 2012 and 2013; SQADays 2013; EuroStar 2013; AgileScrum, and STC India in 2012. 
+**International Conferences:** ISTA Con 2015, DevReach in 2012 and 2013; SQADays 2013; EuroStar 2013; AgileScrum, and STC India in 2012. 
 
 **Keynotes:** I keynoted at ISTA Conference 2015 and spoke to approximately 600 software quality professionals. Video of the talk is at https://www.youtube.com/watch?v=uFjdSqDPLSQ&feature=youtu.be.
 
