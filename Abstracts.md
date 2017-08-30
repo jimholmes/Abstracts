@@ -246,21 +246,12 @@ You'll leave this talk having learned practical, proven ways to avoid common aut
 
 **Audience:** 100 - 200
 
-## <a name='test_webdriver'></a> Testing Your Web Applications With WebDriver (Workshop)
- 
-This workshop lays out the fundamentals of working with automated functional testing. We'll start with discussing how important clear acceptance criteria are, then do practical implementations of functional tests dealing with common situations such as input validation, AJAX delays, and working with file downloads.
-
-Along the way you'll pick up critical concepts like dealing with a web page's DOM, element locators, and tools to help you interact with these. You'll also learn UI automation programming concepts like the Page Object Pattern, implicit and explicit waits, and modularizing your tests.
- 
-You'll also learn why testing at the UI isn't enough-and you'll learn how to build helper APIs to handle true testing heuristics as part of your tests.
-Additionally, you'll see where you need to work together with developers to create a system that's more easily testable. We'll walk through simple changes you can make to your UI, and we'll look at how turning off features like CAPTCHA can ease your testing woes and dramatically decrease your scotch consumption.
-
-This session focuses primarily on automating web tests, but many of the same concepts can be applied to other UI environments too. Demos and labs will be in C# and Ruby using WebDriver, but we'll also discuss other free and commercial tools like Watir, Telerik's Test Studio, and Visual Studio's CodedUI. 
-You'll leave this session having learned how to deal with writing high-value functional tests using WebDriver. You'll also learn critical factors for success in keeping your tests running quickly, and avoiding brittle tests that break frequently.
+## <a name='test_webdriver'></a> Keep Your Sanity With WebDriver Automated Tests (Workshop)
+Many teams are driven crazy by brittle, high-maintenance functional test suites. This tutorial will help you understand how to create a flexible, maintainable, high-value suite of functional tests using Selenium Webdriver. You'll learn the basics of what to test, what not to test, and how to avoid overlapping with other types of testing.This tutorial includes both philosophical concepts and hands-on coding. Testers who haven't written code shouldn't be intimidated! We'll pair you up in make sure you're successful. You'll create practical tests dealing with situations such as input validation, AJAX delays, and working with file downloads.   Additionally, you'll see where you need to work together with developers to create a system that's more easily testable. This session focuses primarily on automating web tests, but many of the same concepts can be applied to other UI environments too. Demos and labs will be in C# and Java using WebDriver. Some support for Python and Ruby is available if needed. You'll leave this session having learned how approaches to keep sane while writing high-value WebDriver tests.
 
 NOTE: This session can be either a one hour breakout session or a half-day practical hands-on workshop.
 
-**Audience:** 100 - 200
+**Audience:** 100 - 300
 
 
 ## <a name='three_tips'></a> 3 Tips to Improve Your Development Process
