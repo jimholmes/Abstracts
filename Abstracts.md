@@ -31,6 +31,14 @@ Sound familiar? It's a pattern that's common across nearly every team that is ne
 
 This isn't a WebDriver 101 session; we won't be covering basics like waits, find logic, or basic page objects. Instead, we'll dive in to solving problems using software craftsmanship principles, custom-designed APIs, and approaches like Selenium Grid to help you scale out your test suites via parallel execution. You'll leave the session with practical tips to apply to your own testing.
 
+**Key Takeaways**
+
+* Avoid overlap of unit, integration, and functional tests
+* Test code **is** production code. Treat it as such.
+* Build custom APIs wrapping system APIs to facilitate testing
+* Parallelization is a last step for speed, not the first
+
+
 ## <a name='growing_testing'></a> Growing a Testing^H^H^H^H^H^H^HWhole Team Organization The Hard Way
 
 Organizational change doesn't come easy. We humans are tetchy beings who often aren't comfortable getting out of the comfy ruts we let ourselves get in.
@@ -44,6 +52,21 @@ Stovepiped testing should have gone down with the Titanic. Learn how to help you
 > Tweaked for StarWest
 > Testing as an "event" after developers have finished their work can't "assure" quality at all. Teams that follow stove-piped processes are losing out on tremendous potential for true, honest collaboration that can seriously transform how they deliver value to their customers. This talk walks attendees through real-life situations where teams and organizations fundamentally changed their approaches to delivering high-quality software. Specific examples tie to concrete tips and approaches to helping integrate testing as an ongoing activity across the entire lifecycle&mdash;not just a late-occurring event.
 
+
+## <a name='it_team_leadership'></a> How Do I Lead an IT Team and Not Go Crazy?
+
+Few organizations do a good job helping their workers grow into leadership positions. It's even worse in the IT realm where we seem to cherish attitudes of introversion, poor communication skills, and a lack of understanding business principles.
+
+This session helps attendees understand questions they can ask of themselves as they move into roles leading software delivery teams such as: What does my organization expect of me? How do I learn to priortize effectively? How do I lead people in technical areas I don't know? Do I even want to do this?
+
+Attendees will leave this session with practical ideas based on Jim's decades of leadership experience.
+
+**Key Takeaways**
+
+* Learn to communicate in business, not technical lanquage
+* Educate your team to think outside the technical domain
+* Create an environment safe to fail in
+* Identify your weaknesses, learn to mitigate (not hide!) them
 
 
 ## <a name='growing_leadership'></a> Growing Into Leadership
@@ -246,10 +269,17 @@ You'll leave this talk having learned practical, proven ways to avoid common aut
 
 **Audience:** 100 - 200
 
-## <a name='test_webdriver'></a> Keep Your Sanity With WebDriver Automated Tests (Workshop)
-Many teams are driven crazy by brittle, high-maintenance functional test suites. This tutorial will help you understand how to create a flexible, maintainable, high-value suite of functional tests using Selenium Webdriver. You'll learn the basics of what to test, what not to test, and how to avoid overlapping with other types of testing.This tutorial includes both philosophical concepts and hands-on coding. Testers who haven't written code shouldn't be intimidated! We'll pair you up in make sure you're successful. You'll create practical tests dealing with situations such as input validation, AJAX delays, and working with file downloads.   Additionally, you'll see where you need to work together with developers to create a system that's more easily testable. This session focuses primarily on automating web tests, but many of the same concepts can be applied to other UI environments too. Demos and labs will be in C# and Java using WebDriver. Some support for Python and Ruby is available if needed. You'll leave this session having learned how approaches to keep sane while writing high-value WebDriver tests.
+## <a name='test_webdriver'></a> Don't Let Your WebDriver Suite Drive You Crazy (Workshop)
+Many teams are driven crazy by brittle, high-maintenance functional test suites. This workshop will help you understand how to create a flexible, maintainable, high-value suite of functional tests using Selenium Webdriver. You'll learn the basics of what to test, what not to test, and how to avoid overlapping with other types of testing.This tutorial includes both philosophical concepts and hands-on coding. Testers who haven't written code shouldn't be intimidated! We'll pair you up in make sure you're successful. You'll create practical tests dealing with situations such as input validation, AJAX delays, and working with file downloads.   Additionally, you'll see where you need to work together with developers to create a system that's more easily testable. This session focuses primarily on automating web tests, but many of the same concepts can be applied to other UI environments too. Demos and labs will be in C# and Java using WebDriver. Some support for Python and Ruby is available if needed. You'll leave this session having learned how approaches to keep sane while writing high-value WebDriver tests.
 
 NOTE: This session can be either a one hour breakout session or a half-day practical hands-on workshop.
+
+**Key Takeaways**
+
+* Automate high-value, high-risk workflows
+* Don't duplicate tests that should be unit or integration
+* Learn how to properly handle asynchronous actions
+* Build custom APIs to make your tests simpler
 
 **Audience:** 100 - 300
 
