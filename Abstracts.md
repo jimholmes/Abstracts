@@ -97,7 +97,7 @@ You'll leave this workshop with a better understanding of leveraging your streng
 
 ## <a name='Itleadership101Workshop'></a>Learning to Lead an IT Team
 
-(Four hour workshop)
+(Four to eight hour workshop)
 
 > This is a slight variation of Jim's Leadership 101 Workshop. It adds in focus on bridging the gap between technical and business aspects of your organization&mdash;a critical skill lacking in many folks on the IT side.
 
