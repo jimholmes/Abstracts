@@ -92,6 +92,23 @@ Join Jim Holmes in this highly interactive workshop where you'll learn some fund
 You'll leave this workshop with a better understanding of leveraging your strengths and mitigating your weaknesses. You'll also take away approaches for ensuring you're able to best empower your teams to do amazing things.
 
 **Audience** Anyone
+
+**Deck** https://speakerdeck.com/jimholmes/leadership-101-workshop
+
+## <a name='Itleadership101Workshop'></a>Learning to Lead an IT Team
+
+(Four hour workshop)
+
+> This is a slight variation of Jim's Leadership 101 Workshop. It adds in focus on bridging the gap between technical and business aspects of your organization&mdash;a critical skill lacking in many folks on the IT side.
+
+Leading technical teams delivering software brings a unique set of challenges beyond normal teams. How do you learn to communicate with people on "the business side" of your organization? How do you negotiate time and budget for critical things like testing and infrastructure? And how do you lead people who are expert in technical areas you have no experience in?
+
+Join Jim Holmes in this highly interactive workshop where you'll learn some fundamental skills and gather some tools that can help you on your leadership journey. You'll clarify what makes an effective leader, learn a few critical communication skills, and get tips on dealing with difficult people and situations. You'll learn how to better understand and embrace business value over shiny new technical toys.
+
+You'll leave this workshop with a better understanding of leveraging your strengths and mitigating your weaknesses. You'll also take away approaches for ensuring you're able to best empower your teams to do amazing things.
+
+**Audience** Anyone
+
 **Deck** https://speakerdeck.com/jimholmes/leadership-101-workshop
 
 ## <a name='why'></a>Why?
