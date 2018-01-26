@@ -6,6 +6,23 @@ I'm happy to work with you if there's something you'd like me to talk about or t
 
 ## Workshops
 
+
+### <a name='test_webdriver'></a> Don't Let Your WebDriver Suite Drive You Crazy (Workshop)
+Many teams are driven crazy by brittle, high-maintenance functional test suites. This workshop will help you understand how to create a flexible, maintainable, high-value suite of functional tests using Selenium Webdriver. You'll learn the basics of what to test, what not to test, and how to avoid overlapping with other types of testing.This tutorial includes both philosophical concepts and hands-on coding. Testers who haven't written code shouldn't be intimidated! We'll pair you up in make sure you're successful. You'll create practical tests dealing with situations such as input validation, AJAX delays, and working with file downloads.   Additionally, you'll see where you need to work together with developers to create a system that's more easily testable. This session focuses primarily on automating web tests, but many of the same concepts can be applied to other UI environments too. Demos and labs will be in C# and Java using WebDriver. Some support for Python and Ruby is available if needed. You'll leave this session having learned how approaches to keep sane while writing high-value WebDriver tests.
+
+NOTE: This session can be either a one hour breakout session or a half-day practical hands-on workshop.
+
+**Key Takeaways**
+
+* Automate high-value, high-risk workflows
+* Don't duplicate tests that should be unit or integration
+* Learn how to properly handle asynchronous actions
+* Build custom APIs to make your tests simpler
+
+**Audience:** 100 - 300
+
+
+
 ### <a name='leadership101Workshop'></a>Leadership 101
 
 (Four hour workshop)
@@ -296,21 +313,6 @@ The talk is targeted primarily at functional tests; however, we'll also discuss 
 You'll leave this talk having learned practical, proven ways to avoid common automation pitfalls. This talk is based on my years of work with automation teams on a number of different platforms, plus discussing shared pain, failures, and successes with others passionate about the value automation brings to every software project.
 
 **Audience:** 100 - 200
-
-### <a name='test_webdriver'></a> Don't Let Your WebDriver Suite Drive You Crazy (Workshop)
-Many teams are driven crazy by brittle, high-maintenance functional test suites. This workshop will help you understand how to create a flexible, maintainable, high-value suite of functional tests using Selenium Webdriver. You'll learn the basics of what to test, what not to test, and how to avoid overlapping with other types of testing.This tutorial includes both philosophical concepts and hands-on coding. Testers who haven't written code shouldn't be intimidated! We'll pair you up in make sure you're successful. You'll create practical tests dealing with situations such as input validation, AJAX delays, and working with file downloads.   Additionally, you'll see where you need to work together with developers to create a system that's more easily testable. This session focuses primarily on automating web tests, but many of the same concepts can be applied to other UI environments too. Demos and labs will be in C# and Java using WebDriver. Some support for Python and Ruby is available if needed. You'll leave this session having learned how approaches to keep sane while writing high-value WebDriver tests.
-
-NOTE: This session can be either a one hour breakout session or a half-day practical hands-on workshop.
-
-**Key Takeaways**
-
-* Automate high-value, high-risk workflows
-* Don't duplicate tests that should be unit or integration
-* Learn how to properly handle asynchronous actions
-* Build custom APIs to make your tests simpler
-
-**Audience:** 100 - 300
-
 
 ### <a name='three_tips'></a> 3 Tips to Improve Your Development Process
 
