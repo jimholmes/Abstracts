@@ -1,87 +1,12 @@
 # Presentation Abstracts
-These abstracts are for sessions, workshops, lightning talks, whatevs I've got in my pocket.
 
-# Current Presentations
+My job as a speaker is to help you get great content for your user group, conference, training session, or whatever it is you're organizing. Below are abstracts for topics I have at hand, or have delivered in the past.
 
-These talks are ones I've been giving regularly over the last couple years.
+I'm happy to work with you if there's something you'd like me to talk about or train on, but don't see something that exactly fits.
 
-## <a name='stronger'></a> ...Makes You Stronger
+## Workshops
 
-We've become a culture averse to adversity. From "no-losers" sports to "safe spaces" on campuses we make a conscious effort to avoid the pain that comes from defeat or hard-to-hear differences of philosophy and outlook. We take this same avoidance in to far more painful aspects of our own personal lives as well. Through this fear of confronting hard things we've lost sight that our humanity shines no brighter than when we push through struggles large and small.
-
-Our muscles and endurance only grow when we push well in to discomfort and often outright pain. Our minds, psyches, and spirts need the same hard work as well. After all, what doesn't kill you...
-
-## <a name='better_quality'></a>More Better Quality Coverage
-
-
-How do you ensure your feature's well-built and does what the customer needs (which may be different than what they want)? How do you ensure the feature's high quality? When do you discuss things like test case construction? Test data creation? Performance needs? And let's just skip by security because that's scary.
-
-In this session we'll walk through creating a critical business feature. We'll take the journey all the way from ideation through production monitoring. You'll learn where to have various conversations about quality, and what you might consider along the way.
-
-You'll see examples of good conversations used to help business focus on high-value features. You'll also help build out solid acceptance criteria, and you'll learn where to tie those pesky "Non-functional requirements" in. We'll tie all this together with working tests and code--and you'll see how exploratory testing fits in along the entire journey.
-
-Make sure you're getting the best quality coverage of your work!
-
-
-## <a name='beyond_basics'></a> Automated Testing: Beyond The Basics
-
-You've been through some initial training or bootstrapping. Now you're three to six months down the road and you're finding a lot of time is being spent chasing intermittent test failures. You're spending a lot of time maintaining your codebase. You're spending a lot of time dealing with frustration and trust in the automated tests. What's you're not doing is adding a lot of value around new feature work.
-
-Sound familiar? It's a pattern that's common across nearly every team that is new to building significant automation suites. Jim Holmes helps you find a few approaches that may save your sanity&mdash;all based on years of experience and hard knocks. 
-
-This isn't a WebDriver 101 session; we won't be covering basics like waits, find logic, or basic page objects. Instead, we'll dive in to solving problems using software craftsmanship principles, custom-designed APIs, and approaches like Selenium Grid to help you scale out your test suites via parallel execution. You'll leave the session with practical tips to apply to your own testing.
-
-**Key Takeaways**
-
-* Avoid overlap of unit, integration, and functional tests
-* Test code **is** production code. Treat it as such.
-* Build custom APIs wrapping system APIs to facilitate testing
-* Parallelization is a last step for speed, not the first
-
-
-## <a name='growing_testing'></a> Growing a Testing^H^H^H^H^H^H^HWhole Team Organization The Hard Way
-
-Organizational change doesn't come easy. We humans are tetchy beings who often aren't comfortable getting out of the comfy ruts we let ourselves get in.
-
-Join Jim Holmes for an experience report on how he helped a couple organizations change how they tested and delivered software. You'll learn some critical techniques for helping drive change around testing: Getting buy-in from executives and management. Hiring/staffing the right people. Helping existing team members learn to adapt--and dealing with those that won't. 
-
-You'll also learn why testing tools and test cases do NOT solve any quality issues, and you'll also hear plenty of lessons-learned and hard knocks.
-
-Stovepiped testing should have gone down with the Titanic. Learn how to help your organization get quality across your entire delivery team, not just the people you blame for not "Assuring Quality."
-
-> Tweaked for StarWest
-> Testing as an "event" after developers have finished their work can't "assure" quality at all. Teams that follow stove-piped processes are losing out on tremendous potential for true, honest collaboration that can seriously transform how they deliver value to their customers. This talk walks attendees through real-life situations where teams and organizations fundamentally changed their approaches to delivering high-quality software. Specific examples tie to concrete tips and approaches to helping integrate testing as an ongoing activity across the entire lifecycle&mdash;not just a late-occurring event.
-
-
-## <a name='it_team_leadership'></a> How Do I Lead an IT Team and Not Go Crazy?
-
-Few organizations do a good job helping their workers grow into leadership positions. It's even worse in the IT realm where we seem to cherish attitudes of introversion, poor communication skills, and a lack of understanding business principles.
-
-This session helps attendees understand questions they can ask of themselves as they move into roles leading software delivery teams such as: What does my organization expect of me? How do I learn to priortize effectively? How do I lead people in technical areas I don't know? Do I even want to do this?
-
-Attendees will leave this session with practical ideas based on Jim's decades of leadership experience.
-
-**Key Takeaways**
-
-* Learn to communicate in business, not technical lanquage
-* Educate your team to think outside the technical domain
-* Create an environment safe to fail in
-* Identify your weaknesses, learn to mitigate (not hide!) them
-
-
-## <a name='growing_leadership'></a> Growing Into Leadership
-
-Too many of our organizations across society have poor leadership. It doesn't matter if we're talking about the military, private sector firms, or the local Cub Scout pack. Great leaders help us get the most out of our teams and ourselves, not just at the high meta level, but during each day's grind.
-
-In this session we'll talk about why you might consider stepping up into a leadership role (or evolving one you're currently in), and what things about yourself you can leverage and improve upon. It's also important to understand routes you can take to leadership. Most importantly we'll talk about getting the job done on a daily basis so you can help your team be as awesome as possible.
-
-You'll leave this session with some questions to ask of yourself, and some ideas on furthering your own leadership journey.
-
-**Audience** Anyone
-
-**Deck** Not yet published
-
-## <a name='leadership101Workshop'></a>Leadership 101
+### <a name='leadership101Workshop'></a>Leadership 101
 
 (Four hour workshop)
 
@@ -95,7 +20,7 @@ You'll leave this workshop with a better understanding of leveraging your streng
 
 **Deck** https://speakerdeck.com/jimholmes/leadership-101-workshop
 
-## <a name='Itleadership101Workshop'></a>Learning to Lead an IT Team
+### <a name='Itleadership101Workshop'></a>Learning to Lead an IT Team
 
 (Four to eight hour workshop)
 
@@ -111,7 +36,93 @@ You'll leave this workshop with a better understanding of leveraging your streng
 
 **Deck** https://speakerdeck.com/jimholmes/leadership-101-workshop
 
-## <a name='why'></a>Why?
+
+
+## Current Presentations
+
+These talks are ones I've been giving regularly over the last couple years.
+
+### <a name='stronger'></a> ...Makes You Stronger
+
+We've become a culture averse to adversity. From "no-losers" sports to "safe spaces" on campuses we make a conscious effort to avoid the pain that comes from defeat or hard-to-hear differences of philosophy and outlook. We take this same avoidance in to far more painful aspects of our own personal lives as well. Through this fear of confronting hard things we've lost sight that our humanity shines no brighter than when we push through struggles large and small.
+
+Our muscles and endurance only grow when we push well in to discomfort and often outright pain. Our minds, psyches, and spirts need the same hard work as well. After all, what doesn't kill you...
+
+### <a name='better_quality'></a>More Better Quality Coverage
+
+
+How do you ensure your feature's well-built and does what the customer needs (which may be different than what they want)? How do you ensure the feature's high quality? When do you discuss things like test case construction? Test data creation? Performance needs? And let's just skip by security because that's scary.
+
+In this session we'll walk through creating a critical business feature. We'll take the journey all the way from ideation through production monitoring. You'll learn where to have various conversations about quality, and what you might consider along the way.
+
+You'll see examples of good conversations used to help business focus on high-value features. You'll also help build out solid acceptance criteria, and you'll learn where to tie those pesky "Non-functional requirements" in. We'll tie all this together with working tests and code--and you'll see how exploratory testing fits in along the entire journey.
+
+Make sure you're getting the best quality coverage of your work!
+
+
+### <a name='beyond_basics'></a> Automated Testing: Beyond The Basics
+
+You've been through some initial training or bootstrapping. Now you're three to six months down the road and you're finding a lot of time is being spent chasing intermittent test failures. You're spending a lot of time maintaining your codebase. You're spending a lot of time dealing with frustration and trust in the automated tests. What's you're not doing is adding a lot of value around new feature work.
+
+Sound familiar? It's a pattern that's common across nearly every team that is new to building significant automation suites. Jim Holmes helps you find a few approaches that may save your sanity&mdash;all based on years of experience and hard knocks. 
+
+This isn't a WebDriver 101 session; we won't be covering basics like waits, find logic, or basic page objects. Instead, we'll dive in to solving problems using software craftsmanship principles, custom-designed APIs, and approaches like Selenium Grid to help you scale out your test suites via parallel execution. You'll leave the session with practical tips to apply to your own testing.
+
+**Key Takeaways**
+
+* Avoid overlap of unit, integration, and functional tests
+* Test code **is** production code. Treat it as such.
+* Build custom APIs wrapping system APIs to facilitate testing
+* Parallelization is a last step for speed, not the first
+
+
+### <a name='growing_testing'></a> Growing a Testing^H^H^H^H^H^H^HWhole Team Organization The Hard Way
+
+Organizational change doesn't come easy. We humans are tetchy beings who often aren't comfortable getting out of the comfy ruts we let ourselves get in.
+
+Join Jim Holmes for an experience report on how he helped a couple organizations change how they tested and delivered software. You'll learn some critical techniques for helping drive change around testing: Getting buy-in from executives and management. Hiring/staffing the right people. Helping existing team members learn to adapt--and dealing with those that won't. 
+
+You'll also learn why testing tools and test cases do NOT solve any quality issues, and you'll also hear plenty of lessons-learned and hard knocks.
+
+Stovepiped testing should have gone down with the Titanic. Learn how to help your organization get quality across your entire delivery team, not just the people you blame for not "Assuring Quality."
+
+> Tweaked for StarWest
+> Testing as an "event" after developers have finished their work can't "assure" quality at all. Teams that follow stove-piped processes are losing out on tremendous potential for true, honest collaboration that can seriously transform how they deliver value to their customers. This talk walks attendees through real-life situations where teams and organizations fundamentally changed their approaches to delivering high-quality software. Specific examples tie to concrete tips and approaches to helping integrate testing as an ongoing activity across the entire lifecycle&mdash;not just a late-occurring event.
+
+
+### <a name='it_team_leadership'></a> How Do I Lead an IT Team and Not Go Crazy?
+
+Few organizations do a good job helping their workers grow into leadership positions. It's even worse in the IT realm where we seem to cherish attitudes of introversion, poor communication skills, and a lack of understanding business principles.
+
+This session helps attendees understand questions they can ask of themselves as they move into roles leading software delivery teams such as: What does my organization expect of me? How do I learn to priortize effectively? How do I lead people in technical areas I don't know? Do I even want to do this?
+
+Attendees will leave this session with practical ideas based on Jim's decades of leadership experience.
+
+**Key Takeaways**
+
+* Learn to communicate in business, not technical lanquage
+* Educate your team to think outside the technical domain
+* Create an environment safe to fail in
+* Identify your weaknesses, learn to mitigate (not hide!) them
+
+
+## Presentations
+
+These are individual talks which can be tailored for the typical conference time of 45 - 75 minutes.
+
+### <a name='growing_leadership'></a> Growing Into Leadership
+
+Too many of our organizations across society have poor leadership. It doesn't matter if we're talking about the military, private sector firms, or the local Cub Scout pack. Great leaders help us get the most out of our teams and ourselves, not just at the high meta level, but during each day's grind.
+
+In this session we'll talk about why you might consider stepping up into a leadership role (or evolving one you're currently in), and what things about yourself you can leverage and improve upon. It's also important to understand routes you can take to leadership. Most importantly we'll talk about getting the job done on a daily basis so you can help your team be as awesome as possible.
+
+You'll leave this session with some questions to ask of yourself, and some ideas on furthering your own leadership journey.
+
+**Audience** Anyone
+
+**Deck** Not yet published
+
+### <a name='why'></a>Why?
 
 Why? We don't ask it enough. We don't ask it enough of our politicians. We don't ask it enough of our colleagues. We certainly don't ask it enough of ourselves.
 
@@ -123,7 +134,7 @@ Sorry, we're not going to address anything about politicians. Handle that in you
 
 **Audience** Anyone
 
-## <a name='omg'></a> "OMG! This Codebase Sucks!" Paying Down Technical Debt While Continuing to Deliver Value
+### <a name='omg'></a> "OMG! This Codebase Sucks!" Paying Down Technical Debt While Continuing to Deliver Value
  
 Sure, you know you need to clean up the lousy codebase that's falling apart at the seams, but how are you going to figure out what to fix, how to fix it, who will fix it-and how you'll get that done while meeting the other commitments of continuing to deliver new value to your customers?
 
@@ -148,7 +159,7 @@ This talk won't cover best practices (BECAUSE THERE AREN'T ANY) nor will it atte
 
 **Deck:** https://speakerdeck.com/jimholmes/omg-this-codebase-sucks
 
-## <a name='auto_all'></a> Let's Automate All 3,543 Manual Test Cases! Actually, Let's Not.
+### <a name='auto_all'></a> Let's Automate All 3,543 Manual Test Cases! Actually, Let's Not.
 
 User interface functional tests are the Sirens of automated testing: seductive, alluring voices that draw you in only to die a horrible death as your ship breaks apart on murderous shoals.
 
@@ -158,7 +169,7 @@ This talk won't give you any best practices. Instead you'll learn life- and sani
 
 Life jackets not provided.
 
-## <a name='ten_tips'></a> Ten Practical Tips for Automated Testing of Web Applications
+### <a name='ten_tips'></a> Ten Practical Tips for Automated Testing of Web Applications
 
 60 minutes, ten takeaways for making solid functional User Interface tests of web applications. In this session we'll quickly cover the fundamentals of how automated web functional tests work, then dive into practical solutions you'll be able use on a daily basis. You'll see how to create maintainable tests using the Page Object Pattern, handle complex asynchronous (timing!) situations, and deal with common controls like complex grids, trees, calendars, and a number of other "interesting" automation scenarios.
 
@@ -168,7 +179,7 @@ You'll leave this session armed with knowledge you can immediately apply to make
 
 **Deck:** https://speakerdeck.com/jimholmes/ten-tips-for-better-web-ui-automation-tests
 
-## <a name='not_about_you'></a> It's Not About You
+### <a name='not_about_you'></a> It's Not About You
 Why is it acceptable to have such horrible communication skills with those outside our cloistered group of technogeeks? Reality check: it's not acceptable. Our industry has a well-deserved reputation for poor communication with anyone who doesn't speak our language exactly, or those who are outside our little cliques. We routinely denigrate and ostracize folks who don't look or act like us, and we regularly insult or condescend to our stakeholders while forgetting they're the ones signing the checks-and who may have put their entire careers on the line for the projects we're running.
 
 In this talk Jim lays out some clear rationale and approaches around creating better communication with our clients, teammates, and audiences. It all starts with the fundamental concept that good communication isn't centered around you the speaker, it has to be focused on who you're communicating to.
@@ -182,7 +193,7 @@ Note: This talk is best suited for shorter sessions such as 10-20 minute lightni
 
 **Deck:** https://speakerdeck.com/jimholmes/its-not-about-you-kalamazoox-version
 
-## <a name=''></a> It IS About You
+### <a name=''></a> It IS About You
 
 Grace Slick once said she couldn't use her daughter as motivation for breaking her various drug addictions-Slick knew motivation for important things has to focus on the within, otherwise you risk falling apart if the other person ever lets you down. It's too easy an excuse: "She let me down so I'm going to go shoot up now." 
 
@@ -192,7 +203,7 @@ Sometimes it *IS* about YOU.
 
 NOTE: This talk is a 20 minute lightning talk.
 
-## <a name='sounds_great'></a> That Sounds Great in Practice, But.
+### <a name='sounds_great'></a> That Sounds Great in Practice, But.
 
 This talk doesn't even pretend to give you simplistic answers on how to effect change in your organization; however, you will learn some practical tips on how to start making that change happen. We'll discuss forming a clear vision for the change you want to implement, refining that vision, getting stakeholders on board, and dealing with forces resisting change. You'll also learn critical concepts like clarifying your idea, speaking the right language, creating a good pitch, and figuring out who owns the money you'll need for your idea.
 
@@ -204,7 +215,7 @@ You'll leave this session with ideas based on Jim's successes - and you'll have 
 
 **Deck:** https://speakerdeck.com/jimholmes/that-sounds-great-in-theory-but-dot-dot-dot
 
-## <a name=''></a> Four Crucial Tips for Automating Your Web Tests
+### <a name=''></a> Four Crucial Tips for Automating Your Web Tests
  
 Functional testing your web applications can be extraordinarily frustrating. Intermittent failures, lots of rework and tinkering, and too little time spent on creating new value for your customers.
 In this session Jim Holmes will help you understand a few crucial tips to help you get a successful web automation test suite in place: test the right things, understand good locators, handle asynchronous operations properly, and create a backing infrastructure to help you write better tests.
@@ -213,7 +224,7 @@ We'll use WebDriver for examples and demos in C#, but we'll discuss how these so
 **Deck:** https://speakerdeck.com/jimholmes/four-tips-for-web-automation
 
 
-## <a name='whyuno'></a> Why U No Test Yur UI?
+### <a name='whyuno'></a> Why U No Test Yur UI?
  
 Developers and testers with thousands of smoothly running unit tests have been known to run screaming like little kids away from user interface tests. While those geeks are cowering in terror under the bed (when has that ever worked in the movies?) instead of writing functional or UI tests, significant portions of your application are going unchecked.
 
@@ -225,7 +236,7 @@ Once you get out from under the bed, that is.
 
 **Audience:** 200
 
-## <a name='dont_fear'></a> Don't Fear Automated Testing
+### <a name='dont_fear'></a> Don't Fear Automated Testing
 
 This session is aimed at the non-technical tester, or at least the not-technical enough tester.  It will also be of value if you are a 'technical' tester but are confused around differing definitions for terms like "integration test.'
   
@@ -239,7 +250,7 @@ You'll leave this session with a better understanding of how your testing expert
 
 **Audience:** 100 - 200
 
-## <a name='collab'></a> Developer/Tester Collaboration: The Practical Side
+### <a name='collab'></a> Developer/Tester Collaboration: The Practical Side
  
 This talk shows attendees practical places where testers and developers can (and should be!) collaborating more frequently: creating better test cases, bringing software engineering fundamentals to automated tests, creating testable systems, and more. 
 
@@ -253,7 +264,7 @@ All attendees will leave this session with a better understanding of how effecti
 
 **Deck:** https://speakerdeck.com/jimholmes/developer-tester-collaboration-the-practical-side
 
-## <a name='zero_eight'></a> Zero to Eight. Lessons Learned Starting a Test  Team from Scratch.
+### <a name='zero_eight'></a> Zero to Eight. Lessons Learned Starting a Test  Team from Scratch.
 
 How do you build a successful suite of automated tests for your system? One test at a time, with lots of careful thought and a willingness to backtrack and adjust. In this talk Jim shares his experiences building up a test automation effort for a five year old legacy software product that had zero planned testing, manual or automated, prior to his taking on a job as a tester. 
 
@@ -266,7 +277,7 @@ Explore how to deal with fundamental problems common to any automation effort: m
 
 **Deck:** https://speakerdeck.com/jimholmes/zero-to-eight-starting-a-qa-team-from-scratch
 
-## <a name=''></a> Surviving Growing from Zero to 15,000 Selenium Tests
+### <a name=''></a> Surviving Growing from Zero to 15,000 Selenium Tests
 
 Selenium's a wonderful tool for automating acceptance and functional tests; however, real-world implementations bring a lot of pain. I suffered all that pain, and more, as I piloted an effort that started out with Selenium IDE, moved through RC, and ended up with WebDriver. This talk covers things like setting up baseline data, creating backing test frameworks, dealing with brittle tests, and figuring out how to appropriately manage all those incredibly slow Selenium tests so that you actually get effective, useful testing in. Learn from my pain (and successes!) so that you don't have to suffer it in your own projects!
 
@@ -274,7 +285,7 @@ Note: while this talk focuses on Selenium, many of the principles apply to an fu
 
 **Audience:** 100 - 200
 
-## <a name=''></a> Test Automation Isn't All Shiny Toys
+### <a name=''></a> Test Automation Isn't All Shiny Toys
 
 Building a suite of automated tests for your project is a critical aspect of success-it can also be a contributor to your project's failure if you don't approach testing with the same care you take with the system you're delivering. This talk covers fundamental topics including setting up the right infrastructure, treating your test code the same as your production code, dealing with maintainability issues, and handling long-running test suites. We also cover why collaborating with developers can get you great benefits such as backing APIs and assistance with good test design.
 
@@ -286,7 +297,7 @@ You'll leave this talk having learned practical, proven ways to avoid common aut
 
 **Audience:** 100 - 200
 
-## <a name='test_webdriver'></a> Don't Let Your WebDriver Suite Drive You Crazy (Workshop)
+### <a name='test_webdriver'></a> Don't Let Your WebDriver Suite Drive You Crazy (Workshop)
 Many teams are driven crazy by brittle, high-maintenance functional test suites. This workshop will help you understand how to create a flexible, maintainable, high-value suite of functional tests using Selenium Webdriver. You'll learn the basics of what to test, what not to test, and how to avoid overlapping with other types of testing.This tutorial includes both philosophical concepts and hands-on coding. Testers who haven't written code shouldn't be intimidated! We'll pair you up in make sure you're successful. You'll create practical tests dealing with situations such as input validation, AJAX delays, and working with file downloads.   Additionally, you'll see where you need to work together with developers to create a system that's more easily testable. This session focuses primarily on automating web tests, but many of the same concepts can be applied to other UI environments too. Demos and labs will be in C# and Java using WebDriver. Some support for Python and Ruby is available if needed. You'll leave this session having learned how approaches to keep sane while writing high-value WebDriver tests.
 
 NOTE: This session can be either a one hour breakout session or a half-day practical hands-on workshop.
@@ -301,7 +312,7 @@ NOTE: This session can be either a one hour breakout session or a half-day pract
 **Audience:** 100 - 300
 
 
-## <a name='three_tips'></a> 3 Tips to Improve Your Development Process
+### <a name='three_tips'></a> 3 Tips to Improve Your Development Process
 
 It doesn't matter if you're doing Agile or if you're working in an environment like RUP or CMMI, there are several things you can do to improve your development process.  This highly interactive session will show you three specific tips: improve your estimation, use a daily standup to keep a close focus on your progress, and work in retrospectives to empower your team's ability to drastically improve your entire software development process, regardless of what that process is, even if it's no process! You'll leave this session with a handle on ways to smooth out your project's environment.
 
@@ -310,7 +321,7 @@ It doesn't matter if you're doing Agile or if you're working in an environment l
 Feedback:
 "Jim really hit the points home as to what we need to improve our processes in general. The best quote that I got from this talk was `It's estimation, not exactimation.'" Sarah Dutkiewicz,  http://is.gd/2ouuW
 
-## <a name='distrib'></a> Making Distributed Teams Work (Effectively, Even!)
+### <a name='distrib'></a> Making Distributed Teams Work (Effectively, Even!)
 
 Working with distributed teams can cause extreme frustration, slower velocity for releases, and outright failures of successful completion of your projects - but it doesn't have to be this way! Distributed teams can help you bring great value to your customers, but you'll need a much different approach and mindset to make your teams work effectively.
 
@@ -320,7 +331,7 @@ This session will walk you through critical aspects of effective distributed tea
 
 **Audience:** 100 - 200
 
-## <a name=''></a> Introduction to Unit Testing
+### <a name=''></a> Introduction to Unit Testing
 Unit testing can save you time, money, and frustration by helping you create a safety net around your software to guarantee its stability and quality. 
 
 This introductory session is nearly all code and sets aside any testing methodologies such as Test or Behavioral Driven Development. Instead, you'll discover the fundamentals of what unit tests are, how to write them, and some differences between the most popular unit test frameworks. You'll also learn about organizing tests, creating test hierarchies, and heading off painful or brittle tests. You'll also learn how to isolate dependencies using stubs, fakes, and mocks. You'll leave this session with an understanding of how to get started writing unit tests.
@@ -335,7 +346,7 @@ Videos of this talk available online:
 * Part 2: http://www.viddler.com/v/9e4b81b1
 
 
-## <a name=''></a> Leadership 101
+### <a name=''></a> Leadership 101
 
 It doesn't matter what point you're at in your career, you need to understand some fundamentals about good leadership. If you're well into your career you need to know how to get the most out of your teams.  If you're just starting then you need to learn what good leadership looks like - and how to help ensure you're getting the leadership you and your colleagues need to succeed. 
 
@@ -353,11 +364,11 @@ Feedback:
 
 
 
-# Older Presentations
+# Retired Presentations
 
-(Give me a bit of notice so I can dust these off!)
+For whatever reason, these presentations are now pushing up daisies. If for some reason you find something interesting here, ping me and we can discuss digging these up and resurrecting them.
 
-## <a name=''></a> Testing Web Applications with Selenium
+### <a name=''></a> Testing Web Applications with Selenium
 
 Testing your web applications is a critical part of delivering great value to your customers. Selenium is a mature, robust open source set of tools that lets you write flexible, powerful suites of automated tests around your web applications. This session will introduce you to the various parts and pieces of the Selenium suite, then walk you through prototyping, writing, and running automated tests.
 
@@ -372,7 +383,7 @@ Feedback:
 
 
 
-## <a name=''></a> Story-Driven Testing
+### <a name=''></a> Story-Driven Testing
  
 How many times have we developers missed the ball on domain-specific issues?  Developers don't have expert knowledge of payroll systems, insurance claims, or order entry systems - yet all the time we pitch ourselves as the experts to implement such systems!  Learn how to bridge this gap with tools like Fitnesse and Story Teller.  
 
@@ -384,18 +395,16 @@ Feedback:
 
 "I think I've learned more about Fitnesse from Jim than anyone else. :-)  It was a great talk -- standing room only." Michael Eaton, http://is.gd/2ounG
 
-# Retired Presentations
 
-For whatever reason, these presentations are now pushing up daisies. If for some reason you find something interesting here, ping me and we can discuss digging these up and resurrecting them.
 
-## <a name=''></a> UI Testing for Your MonoTouch Apps
+### <a name=''></a> UI Testing for Your MonoTouch Apps
  
 UI testing on mobile applications presents many of the same challenges we see in other UI technologies: dealing with element locators, handling dynamic content, and creating maintainable tests. Of course, there's a number of additional challenges on any mobile platform such as differing UI technologies, gestures, and oh so many more!
 In this session you'll learn approaches for creating maintainable, accurate, and flexible tests for your MonoTouch app. 
 
 **Audience:** 100 - 200
 
-## <a name=''></a> Security Fundamentals for the .NET Developer
+### <a name=''></a> Security Fundamentals for the .NET Developer
   
 Software security is arcane, time-consuming, confusing, and absolutely critical if you're to maintain your competitive edge.  Learn how to fend off the Mongol hordes by gaining an understanding of the fundamentals of software security, including public/private key encryption, threat modeling, and the importance of security education.  
 
@@ -403,13 +412,13 @@ Learn what buffer overflows are and find out why leaving your system open to SQL
 
 **Audience:** 200
 
-## <a name=''></a>Security Fundamentals for the Software Developer  (generalized for non-.NET crowd)
+### <a name=''></a>Security Fundamentals for the Software Developer  (generalized for non-.NET crowd)
 
 Software security is convoluted, arcane, time-consuming, confusing, and absolutely critical if you're to maintain your competitive edge.  Learn how to fend off the Mongol hordes by gaining an understanding of the basic fundamentals of software security, including public/private key encryption, threat modeling, and the importance of security education.  
 
 Learn about some of the problems unique to managed environments such as Java or .NET, and find out what buffer overflows are and find out why leaving your system open to SQL injection can really ruin your sleep with a phone call from your boss at 2am.  More importantly, learn how to avoid these all-too-common errors.  This session will give you the foundation for understanding how to develop secure software.  Examples in C#, Java, and a few other things thrown in if time allows.
 
-## <a name=''></a> Improve Your Testing With Open Source Test Tools
+### <a name=''></a> Improve Your Testing With Open Source Test Tools
 
 Solid testing is vital to any development effort if you want stable software that does what the customer expects the software to do.  Visual Studio Team Systems' testing functionality is powerful, but it's not the end-all for every testing task.  
 
@@ -417,7 +426,7 @@ Open source tools can help you get more out of your testing by enabling you to o
 
 **Audience:** 200 - 300
 
-## <a name=''></a> Hands On Agile Practices
+### <a name=''></a> Hands On Agile Practices
 
 Agile software planning and development practices can bring great value to your teams and your clients, but it can sometimes be mystifying to implement it in your environment.  
 
@@ -427,7 +436,7 @@ Learn where Agile runs into problems, but more importantly learn how Agile can g
 
 **Audience:** 200
 
-## <a name=''></a> Real World Microsoft Office SharePoint Server 2007
+### <a name=''></a> Real World Microsoft Office SharePoint Server 2007
 
 The 2007 release of Microsoft Office SharePoint Server (MOSS) is an amazing platform for solving a great number of difficult problems for companies.  Workflow, Excel Services, enterprise search, forms services, and other tools provide a wealth of resources for businesses of all sizes.  
 
@@ -437,7 +446,7 @@ Most of all, discover that while MOSS does a great many things out of the box th
 
 **Audience:** 200 - 300
 
-## <a name=''></a> I Am MOSS Unit Tester (And So Can You!)
+### <a name=''></a> I Am MOSS Unit Tester (And So Can You!)
 SharePoint is a powerful platform to develop on, but that doesn't get you around the need for solid testing as you build your software. Unit and integration testing are still critical pieces of creating great MOSS/WSS solutions for your clients, but unfortunately the industry isn't giving much guidance about how testing in SharePoint ought to work.  
 
 This session will show you the basics of unit and integration testing and show how they apply to SharePoint.  We'll also discuss some of the yucky corners of SharePoint where testing may not make sense.
