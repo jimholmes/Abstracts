@@ -59,6 +59,16 @@ You'll leave this workshop with a better understanding of leveraging your streng
 
 These talks are ones I've been giving regularly over the last couple years.
 
+### <a name='culture'></a>Experience Report: Changing Testing Culture in a Ginormous Company
+
+How do you change culture, mindset, and skills in a global organization entrenched in practices that were outdated 20 years ago?
+
+One small, frustrating step at a time.
+
+In this talk I'll share my experiences working at a Fortune 10 company where I helped small teams of testers on three different continents dramatically change how they helped their projects deliver value to the company. I'll talk about dealing with people (NOT RESOURCES!), navigating ways through corporate bureaucracy and fifedoms, and most importantly how to get advocates at levels that can actually help you with change.
+
+This talk will be full of abject failures we suffered, but also highlight some of the amazing changes we saw over a three year period.
+
 ### <a name='stronger'></a> ...Makes You Stronger
 
 We've become a culture averse to adversity. From "no-losers" sports to "safe spaces" on campuses we make a conscious effort to avoid the pain that comes from defeat or hard-to-hear differences of philosophy and outlook. We take this same avoidance in to far more painful aspects of our own personal lives as well. Through this fear of confronting hard things we've lost sight that our humanity shines no brighter than when we push through struggles large and small.
