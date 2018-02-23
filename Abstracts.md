@@ -59,6 +59,18 @@ You'll leave this workshop with a better understanding of leveraging your streng
 
 These talks are ones I've been giving regularly over the last couple years.
 
+### <a name='key_wb_tips'></a>Five Key Tips To Write Better WebDriver Scripts
+
+Anyone can learn to write WebDriver scripts to help with automation and testing. Even team members with no coding experience can learn to help contribute value to their teams, and learn in fairly short order!
+
+This session is targeted to help team members write WebDriver code that's accurate, understandable, and maintainable. Learning these tips will help you and your teams write stable WebDriver scripts that won't require constant tweaking and maintenance.
+
+Attendees will see practical demonstrations of concepts including the Page Object Pattern, good Locator strategy, dealing with asynchronous actions, and writing custom APIs (also called "backing APIs") to help facilitate better testing.
+
+Additionally, we'll discuss why it's so important to team testers up with software developers in order to get the best out of testable systems.
+
+Examples will be in C#, but Ruby and Java will also be discussed&mdash;or any other platforms the attendees ask about.
+
 ### <a name='culture'></a>Experience Report: Changing Testing Culture in a Ginormous Company
 
 How do you change culture, mindset, and skills in a global organization entrenched in practices that were outdated 20 years ago?
