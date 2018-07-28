@@ -35,6 +35,8 @@ Large headshot: https://www.dropbox.com/s/wkqqi4008gyskze/JimBulgaria-SquareLarg
 **Videos of sessions:**
 Several of my sessions have been video taped: 
 
+...Makes You Stronger. My opening talk at KalamazooX Conference 2017. It's intense. https://youtu.be/r5z2UqXLyWo
+
 ISTA Conference keynote "Why?" https://www.youtube.com/watch?v=uFjdSqDPLSQ&feature=youtu.be
 
 Testing Discussion Panel at Rocky Mountain Ruby:http://confreaks.net/videos/735-rockymtnruby2011-testing-panel 
