@@ -8,7 +8,18 @@ I'm happy to work with you if there's something you'd like me to talk about or t
 
 
 ### <a name='test_webdriver'></a> Don't Let Your WebDriver Suite Drive You Crazy (Workshop)
-Many teams are driven crazy by brittle, high-maintenance functional test suites. This workshop will help you understand how to create a flexible, maintainable, high-value suite of functional tests using Selenium Webdriver. You'll learn the basics of what to test, what not to test, and how to avoid overlapping with other types of testing.This tutorial includes both philosophical concepts and hands-on coding. Testers who haven't written code shouldn't be intimidated! We'll pair you up in make sure you're successful. You'll create practical tests dealing with situations such as input validation, AJAX delays, and working with file downloads.   Additionally, you'll see where you need to work together with developers to create a system that's more easily testable. This session focuses primarily on automating web tests, but many of the same concepts can be applied to other UI environments too. Demos and labs will be in C# and Java using WebDriver. Some support for Python and Ruby is available if needed. You'll leave this session having learned how approaches to keep sane while writing high-value WebDriver tests.
+Many teams are driven crazy by brittle, high-maintenance functional test suites. This workshop will help you understand how to create a flexible, maintainable, high-value suite of functional tests using Selenium Webdriver. You'll learn the basics of what to test, what not to test, and how to avoid overlapping with other types of testing.
+
+This tutorial includes both philosophical concepts and hands-on coding. Testers who haven't written code shouldn't be intimidated! We'll pair you up in make sure you're successful.
+ 
+You'll create practical tests dealing with situations such as input validation, AJAX delays, and working with file downloads.   
+
+Additionally, you'll see where you need to work together with developers to create a system that's more easily testable. This session focuses primarily on automating web tests, but many of the same concepts can be applied to other UI environments too. 
+
+Demos and labs will be in C# and Java using WebDriver. Some support for Python and Ruby is available if needed. 
+
+You'll leave this session having learned how approaches to keep sane while writing high-value WebDriver tests.
+
 
 NOTE: This session can be either a one hour breakout session or a half-day practical hands-on workshop.
 
@@ -51,13 +62,21 @@ You'll leave this workshop with a better understanding of leveraging your streng
 
 **Audience** Anyone
 
-**Deck** https://speakerdeck.com/jimholmes/leadership-101-workshop
-
+[Deck from Romania Testing Conference&mdash;both breakout session and all day workshop](https://speakerdeck.com/jimholmes/leading-an-it-team-workshop)
 
 
 ## Current Presentations
 
 These talks are ones I've been giving regularly over the last couple years.
+
+### <a name='you_got_this'></a>You Got This
+
+[NOTE: Prepping this talk for keynote at DevSpace 2018]
+
+Sometimes when we're stuck in the depths of struggles we forget how powerful we individual humans really are. It's easy to lose sight of our abilities and strengths when we're fighting through difficult relationships, bad work situations, or grief and trauma.
+
+Opening up to facing adversity isn't ever easy, but we can learn to work through challenges we never thought ourselves able to survive.
+
 
 ### <a name='key_wb_tips'></a>Five Key Tips To Write Better WebDriver Scripts
 
@@ -81,11 +100,15 @@ In this talk I'll share my experiences working at a Fortune 10 company where I h
 
 This talk will be full of abject failures we suffered, but also highlight some of the amazing changes we saw over a three year period.
 
+[Deck from presentation at Selenium Conference Bangalore 2018](https://speakerdeck.com/jimholmes/changing-testing-culture-in-a-ginormous-organization)
+
 ### <a name='stronger'></a> ...Makes You Stronger
 
 We've become a culture averse to adversity. From "no-losers" sports to "safe spaces" on campuses we make a conscious effort to avoid the pain that comes from defeat or hard-to-hear differences of philosophy and outlook. We take this same avoidance in to far more painful aspects of our own personal lives as well. Through this fear of confronting hard things we've lost sight that our humanity shines no brighter than when we push through struggles large and small.
 
 Our muscles and endurance only grow when we push well in to discomfort and often outright pain. Our minds, psyches, and spirts need the same hard work as well. After all, what doesn't kill you...
+
+[Video of talk at KalamazooX Conference 2017](https://www.youtube.com/watch?v=r5z2UqXLyWo)
 
 ### <a name='better_quality'></a>More Better Quality Coverage
 
@@ -98,6 +121,7 @@ You'll see examples of good conversations used to help business focus on high-va
 
 Make sure you're getting the best quality coverage of your work!
 
+[Slide deck](https://speakerdeck.com/jimholmes/more-better-quality-coverage)
 
 ### <a name='beyond_basics'></a> Automated Testing: Beyond The Basics
 
@@ -114,6 +138,8 @@ This isn't a WebDriver 101 session; we won't be covering basics like waits, find
 * Build custom APIs wrapping system APIs to facilitate testing
 * Parallelization is a last step for speed, not the first
 
+[Slide Deck](https://speakerdeck.com/jimholmes/automated-testing-beyond-the-basics)
+
 
 ### <a name='growing_testing'></a> Growing a Testing^H^H^H^H^H^H^HWhole Team Organization The Hard Way
 
@@ -125,8 +151,7 @@ You'll also learn why testing tools and test cases do NOT solve any quality issu
 
 Stovepiped testing should have gone down with the Titanic. Learn how to help your organization get quality across your entire delivery team, not just the people you blame for not "Assuring Quality."
 
-> Tweaked for StarWest
-> Testing as an "event" after developers have finished their work can't "assure" quality at all. Teams that follow stove-piped processes are losing out on tremendous potential for true, honest collaboration that can seriously transform how they deliver value to their customers. This talk walks attendees through real-life situations where teams and organizations fundamentally changed their approaches to delivering high-quality software. Specific examples tie to concrete tips and approaches to helping integrate testing as an ongoing activity across the entire lifecycle&mdash;not just a late-occurring event.
+[Slide deck](https://speakerdeck.com/jimholmes/growing-whole-team-quality)
 
 
 ### <a name='it_team_leadership'></a> How Do I Lead an IT Team and Not Go Crazy?
@@ -144,10 +169,7 @@ Attendees will leave this session with practical ideas based on Jim's decades of
 * Create an environment safe to fail in
 * Identify your weaknesses, learn to mitigate (not hide!) them
 
-
-## Presentations
-
-These are individual talks which can be tailored for the typical conference time of 45 - 75 minutes.
+[Deck from Romania Testing Conference&mdash;both breakout session and all day workshop](https://speakerdeck.com/jimholmes/leading-an-it-team-workshop)
 
 ### <a name='growing_leadership'></a> Growing Into Leadership
 
@@ -159,9 +181,11 @@ You'll leave this session with some questions to ask of yourself, and some ideas
 
 **Audience** Anyone
 
-**Deck** Not yet published
+[Deck from KalX 2015](https://speakerdeck.com/jimholmes/growing-into-leadership-kalx-version)
 
 ### <a name='why'></a>Why?
+
+[Note: This was delivered as a Keynote at ISTACon 2015 in Sofia, Bulgaria. [Video of the talk](https://www.youtube.com/watch?time_continue=1&v=uFjdSqDPLSQ)
 
 Why? We don't ask it enough. We don't ask it enough of our politicians. We don't ask it enough of our colleagues. We certainly don't ask it enough of ourselves.
 
@@ -172,6 +196,8 @@ We'll also look at ways you can work at injecting some much-needed change into y
 Sorry, we're not going to address anything about politicians. Handle that in your upcoming elections!
 
 **Audience** Anyone
+
+[Slide deck (it's a bit gonzo)](https://speakerdeck.com/jimholmes/why)
 
 ### <a name='omg'></a> "OMG! This Codebase Sucks!" Paying Down Technical Debt While Continuing to Deliver Value
  
@@ -196,7 +222,7 @@ This talk won't cover best practices (BECAUSE THERE AREN'T ANY) nor will it atte
 
 **Audience:** 200-300
 
-**Deck:** https://speakerdeck.com/jimholmes/omg-this-codebase-sucks
+[Slide deck](https://speakerdeck.com/jimholmes/omg-this-codebase-sucks)
 
 ### <a name='auto_all'></a> Let's Automate All 3,543 Manual Test Cases! Actually, Let's Not.
 
