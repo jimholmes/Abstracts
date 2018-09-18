@@ -35,6 +35,8 @@ Large headshot: https://www.dropbox.com/s/wkqqi4008gyskze/JimBulgaria-SquareLarg
 **Videos of sessions:**
 Several of my sessions have been video taped: 
 
+Changing Culture in a Ginormous Organization. Breakout session at Selenium Conference Bangalore 2018. https://www.youtube.com/watch?v=-7SOpPg40ps
+
 ...Makes You Stronger. My opening talk at KalamazooX Conference 2017. It's intense. https://youtu.be/r5z2UqXLyWo
 
 ISTA Conference keynote "Why?" https://www.youtube.com/watch?v=uFjdSqDPLSQ&feature=youtu.be
