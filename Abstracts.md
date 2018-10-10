@@ -6,6 +6,36 @@ I'm happy to work with you if there's something you'd like me to talk about or t
 
 ## Workshops
 
+### <a name='coding_noncoders'></a>Coding for Non-Coders
+
+Are you part of a software delivery team, but don't know how to write or read software code? Many testers, business analysts, program managers, and other "non-technical" team members (what a bad label!) are often intimidated by their lack of coding ability. This has a direct impact on team effectiveness, as it impairs good communication in tasks as simple as Three Amigo discussions, or active coding events like pairing or mobbing.
+
+Team members don't need to understand deep, technical aspects of software engineering to be effective contributers when coding. Everyone can make great inputs by understanding a few basics.
+
+This workshop is intended to help team members gain basic comfort at writing software. Workshop attendees will NOT leave this course experts in software engineering. The goal of this workshop is to learn and understand the most basic fundamentals of how works: source code, compilers, interpreters, Integrated Development Environments, and automated testing frameworks.
+
+Attendees will spend a bit of time learning basic concepts, discussing and clarifying a basic software example problem, then move straight into firing up an IDE and writing some code. Coding will be done as pairs or groups ("mobs"), so no attendee should feel intimidated about struggling alone!
+
+The workshop will use Visual Studio Code and C#, and is supported for both Windows and Macintosh. Examples of Java and Ruby will also be given.
+
+This workshop is based on similar trainings Jim has given numerous times over the last three years while engaged at a Fortune 10 company. This workshop is also hosted online at Ministry of Test's Dojo.
+
+**Audience:** Anyone
+
+### <a name='speaker_workshop'></a>Learn to Become a Public Speaker
+
+You. You right there. Yes, you! You have an amazing story inside you, and you're struggling on how to get that story out to others in your community&mdash;but you're scared and you don't know where to start.
+
+This workshop will not teach you to be an international rockstar ninja keynote speaker. This workshop WILL teach you how to find your own authentic voice, and how to overcome your fears so you can get in front of a crowd and share what's important to you.
+
+In this workshop you'll learn tips for refining that story of yours into a good concept. You'll walk through figuring out target audiences like user groups, meetups, conferences, or company lunch and learns. You'll get tips on figuring out your own presentation style, and how to build great slide decks that help you tell your story.
+
+You'll also learn critical aspects of presenting talks including managing stage fright, effective movement on stage, controlling audience interaction, hooking your audience into your story, and handling follow up communications.
+
+Learn how you can share that story that's bubbling inside you!
+
+**Audience:** Anyone
+
 
 ### <a name='test_webdriver'></a> Don't Let Your WebDriver Suite Drive You Crazy (Workshop)
 Many teams are driven crazy by brittle, high-maintenance functional test suites. This workshop will help you understand how to create a flexible, maintainable, high-value suite of functional tests using Selenium Webdriver. You'll learn the basics of what to test, what not to test, and how to avoid overlapping with other types of testing.
@@ -65,6 +95,8 @@ You'll leave this workshop with a better understanding of leveraging your streng
 [Deck from Romania Testing Conference&mdash;both breakout session and all day workshop](https://speakerdeck.com/jimholmes/leading-an-it-team-workshop)
 
 
+
+
 ## Current Presentations
 
 These talks are ones I've been giving regularly over the last couple years.
@@ -77,6 +109,22 @@ Sometimes when we're stuck in the depths of struggles we forget how powerful we 
 
 Opening up to facing adversity isn't ever easy, but we can learn to work through challenges we never thought ourselves able to survive.
 
+
+### <a name='backing_api'></a>Building a Custom Testing Framework
+
+Custom frameworks are absolutely crucial for building a great automated test suite.
+
+In this session we'll walk through writing a custom framework that handles critical functions for any test suite, be it UI or integration. We'll write code that solves common problems, including:
+
+* Creating random, unique data for a test
+* Test data clean up
+* Manage complex business rule interaction via Domain Objects
+* Configure system capabilities, such as shutting off CAPTCHA
+* Handling authentication
+
+In passing we'll also discuss Page Objects and other crucial aspects of a well-designed, high-value, maintainable automated test suite.
+
+**Audience:** Intermediate
 
 ### <a name='key_wb_tips'></a>Five Key Tips To Write Better WebDriver Scripts
 
