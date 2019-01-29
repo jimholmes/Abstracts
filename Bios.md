@@ -3,8 +3,11 @@
 
 **Normal**
 
-Jim is an Executive Consultant at Pillar Technology where he works with organizations trying to improve their software delivery process. He's also the owner/principal of Guidepost Systems which lets him engage directly with struggling organizations. He has been in various corners of the IT world since joining the US Air Force in 1982. He’s spent time in LAN/WAN and server management roles in addition to many years helping teams and customers deliver great systems. Jim has worked with organizations ranging from start ups to Fortune 10 companies to improve their delivery processes and ship better value to their customers. When not at work you might find Jim in the kitchen with a glass of wine, playing Xbox, hiking with his family, or banished to the garage while trying to practice his guitar.
+Jim is the owner/principal of Guidepost Systems where he works with organizations trying to improve their software delivery process. He’s known for his ability to help improve quality and value streams, and he’s also known for his deep background in test automation of all sorts. He has been in various corners of the IT world since joining the US Air Force in 1982.
 
+He’s spent time in LAN/WAN and server management roles in addition to many years helping teams and customers deliver great systems. Jim has worked with organizations ranging from start ups to Fortune 10 companies to improve their delivery processes and ship better value to their customers.
+
+When not at work you might find Jim in the kitchen with a glass of wine, playing Xbox, hiking with his family, or banished to the garage while trying to practice his guitar.
 **Gonzo** 
 
 Single Dad. Widower. Geek. Veteran. Around 25 years IT experience. Author of The Leadership Journey. Coffee Roaster.  Microsoft MVP for ALM.  Past President of  CodeMash Conference. Diabetic. Liked 5th grade so much he did it twice. One-time setter, middle blocker, and weakside hitter. Blogger (http://FrazzledDad.com). Big fan of naps.
