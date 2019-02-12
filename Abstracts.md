@@ -34,6 +34,20 @@ You'll also learn critical aspects of presenting talks including managing stage 
 
 Learn how you can share that story that's bubbling inside you!
 
+** Agenda: **
+
+* Why do public speaking?
+* Building the story (finding topic, clarifying, focusing)
+* Finding a place to tell the story
+* Working on abstracts and submitting
+* Exercise/working groups
+* Creating a great deck
+* Giving the talk (dealing with stage fright, mechanics, technical stuff)
+* Exercise/working groups
+* Lean Coffee to drive attendee concepts
+* Attendees build and deliver a three- to five-minute talk
+
+
 **Audience:** Anyone
 
 
@@ -90,6 +104,14 @@ Join Jim Holmes in this highly interactive workshop where you'll learn some fund
 
 You'll leave this workshop with a better understanding of leveraging your strengths and mitigating your weaknesses. You'll also take away approaches for ensuring you're able to best empower your teams to do amazing things.
 
+** Agenda: **
+
+* 1/2 day of presentations on why, how, etc.
+* 1/2 day of lean coffee format discussions
+    * Some topics driven by presenter
+    * Some topics driven completely by attendees
+* Exercises and group discussion throughout session
+
 **Audience** Anyone
 
 [Deck from Romania Testing Conference&mdash;both breakout session and all day workshop](https://speakerdeck.com/jimholmes/leading-an-it-team-workshop)
@@ -112,7 +134,7 @@ Opening up to facing adversity isn't ever easy, but we can learn to work through
 
 ### <a name='backing_api'></a>Building a Custom Testing Framework
 
-Custom frameworks are absolutely crucial for building a great automated test suite.
+Custom frameworks are crucial for building a great automated test suite. They're especially crucial when you're trying to bring closer collaboration between your testers and developers. Custom frameworks help both roles focus on what they do best, while bring great speed and flexibility to your test suites.
 
 In this session we'll walk through writing a custom framework that handles critical functions for any test suite, be it UI or integration. We'll write code that solves common problems, including:
 
@@ -123,6 +145,8 @@ In this session we'll walk through writing a custom framework that handles criti
 * Handling authentication
 
 In passing we'll also discuss Page Objects and other crucial aspects of a well-designed, high-value, maintainable automated test suite.
+
+Examples in C#, but the concepts apply to all stacks.
 
 **Audience:** Intermediate
 
