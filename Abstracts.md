@@ -12,13 +12,18 @@ Are you part of a software delivery team, but don't know how to write or read so
 
 Team members don't need to understand deep, technical aspects of software engineering to be effective contributers when coding. Everyone can make great inputs by understanding a few basics.
 
-This workshop is intended to help team members gain basic comfort at writing software. Workshop attendees will NOT leave this course experts in software engineering. The goal of this workshop is to learn and understand the most basic fundamentals of how works: source code, compilers, interpreters, Integrated Development Environments, and automated testing frameworks.
+This workshop is intended to help team members gain basic comfort at writing software. Workshop attendees will NOT leave this course experts in software engineering. They WILL leave having written four to ten unit tests and the ssytem code to make those tests pass! 
 
-Attendees will spend a bit of time learning basic concepts, discussing and clarifying a basic software example problem, then move straight into firing up an IDE and writing some code. Coding will be done as pairs or groups ("mobs"), so no attendee should feel intimidated about struggling alone!
+The goal of this workshop is to learn and understand the most basic fundamentals of how works: source code, compilers, interpreters, Integrated Development Environments, and automated testing frameworks. Attendees will spend a bit of time learning basic concepts, discussing and clarifying a basic software example problem, then move straight into firing up an IDE and writing some code. Coding will be done as pairs or groups ("mobs"), so no attendee should feel intimidated about struggling alone!
 
-The workshop will use Visual Studio Code and C#, and is supported for both Windows and Macintosh. Examples of Java and Ruby will also be given.
+The workshop will use Visual Studio Code and C#, and is supported for both Windows and Macintosh. Time permitting, examples of Java and Ruby may also be given.
 
-This workshop is based on similar trainings Jim has given numerous times over the last three years while engaged at a Fortune 10 company. This workshop is also hosted online at Ministry of Test's Dojo.
+**Takeaways**
+
+* Learn enough about code and how it's written to have better conversations with your team
+* Get basic exposure to fundamentals of software craftsmanship such as readability and simplicity
+* Write some automated tests and the system code to make them pass!
+
 
 **Audience:** Anyone
 
@@ -112,6 +117,12 @@ You'll leave this workshop with a better understanding of leveraging your streng
     * Some topics driven completely by attendees
 * Exercises and group discussion throughout session
 
+**Takeaways**
+
+* Anyone can learn the skills and empathy to be a great leader
+* Draw on traits and behaviors from leaders you admire in order to form your own leadership style
+* Learn about communication and how the business works
+
 **Audience** Anyone
 
 [Deck from Romania Testing Conference&mdash;both breakout session and all day workshop](https://speakerdeck.com/jimholmes/leading-an-it-team-workshop)
@@ -128,6 +139,14 @@ These talks are ones I've been giving regularly over the last couple years.
 [NOTE: Prepping this talk for keynote at DevSpace 2018]
 
 Sometimes when we're stuck in the depths of struggles we forget how powerful we individual humans really are. It's easy to lose sight of our abilities and strengths when we're fighting through difficult relationships, bad work situations, or grief and trauma.
+
+Opening up to facing adversity isn't ever easy, but we can learn to work through challenges we never thought ourselves able to survive.
+
+***Alternative***
+
+This is an intense talk covering mental health, depression, suicidal thoughts, and an extraordinary front-page headlines tragedy that ripped my family apart.
+
+More importantly, this is a talk which discusses how strong and powerful we humans are when faced with soul-crushing trials. It's easy to lose sight of our abilities and strengths when we're fighting through incredibly hard times, but there are tools we can draw on to help us get through. Understanding concepts like Adriann Louw's work on pain, learning how to set boundaries, expressing grattitude, and above all learning to forgive ourselves are all crucial to dealing with hard times.
 
 Opening up to facing adversity isn't ever easy, but we can learn to work through challenges we never thought ourselves able to survive.
 
