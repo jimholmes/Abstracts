@@ -8,6 +8,7 @@ Jim is the owner/principal of Guidepost Systems where he works with organization
 He’s spent time in LAN/WAN and server management roles in addition to many years helping teams and customers deliver great systems. Jim has worked with organizations ranging from start ups to Fortune 10 companies to improve their delivery processes and ship better value to their customers.
 
 When not at work you might find Jim in the kitchen with a glass of wine, playing Xbox, hiking with his family, or banished to the garage while trying to practice his guitar.
+
 **Gonzo** 
 
 Single Dad. Widower. Geek. Veteran. Around 25 years IT experience. Author of The Leadership Journey. Coffee Roaster.  Microsoft MVP for ALM.  Past President of  CodeMash Conference. Diabetic. Liked 5th grade so much he did it twice. One-time setter, middle blocker, and weakside hitter. Blogger (http://FrazzledDad.com). Big fan of naps.
@@ -29,9 +30,13 @@ Large headshot: https://www.dropbox.com/s/wkqqi4008gyskze/JimBulgaria-SquareLarg
 
 **Major Conferences:** I've spoken at numerous conferences across the USA. A ***partial*** list includes: CodeMash in 2006, 2007, 2008, 2014, 2015, 2016; ThatConference 2014; the Tyson Developers Conference in 2009 and 2010; devLink 2009 and 2010; eRubyCon 2009; Rocky Mountain Ruby 2011; Path to Agility 2011, 2013, and 2014; Stir Trek 2011, 2013, and 2014; StarWEST 2011 in Anaheim, Kalamazoo X Conference in 2009, 2011, and 2013; DevConnections 2011; STPCon in 2012 and 2013; QUEST in 2012, and 2013; StarEast 2012;PNSQC 2012; Path to Agility 2010, 2011, 2013, 2014.
 
-**International Conferences:** ISTA Con 2015, DevReach in 2012 and 2013; SQADays 2013; EuroStar 2013; AgileScrum, and STC India in 2012. 
+**International Conferences:** TestBash Brighton 2019. Romaina Testing Conference 2018, 2019. ISTA Con 2015, DevReach in 2012, 2013, 2014, 2018; SQADays 2013; EuroStar 2013; AgileScrum, and STC India in 2012. 
 
 **Keynotes:** I keynoted at ISTA Conference 2015 and spoke to approximately 600 software quality professionals. Video of the talk is at https://www.youtube.com/watch?v=uFjdSqDPLSQ&feature=youtu.be.
+
+Keynote at DevSpace (Huntsville, AL) 2018.
+
+Keynote at Heisenbug St. Petersburg 2019.
 
 **User Groups:** I’ve lost count of the user groups I’ve spoken at. Many across the USA.
 
