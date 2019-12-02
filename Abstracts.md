@@ -148,7 +148,7 @@ This is an intense talk covering mental health, depression, suicidal thoughts, a
 
 More importantly, this is a talk which discusses how strong and powerful we humans are when faced with soul-crushing trials. It's easy to lose sight of our abilities and strengths when we're fighting through incredibly hard times, but there are tools we can draw on to help us get through. Understanding concepts like Adriann Louw's work on pain, learning how to set boundaries, expressing grattitude, and above all learning to forgive ourselves are all crucial to dealing with hard times.
 
-Opening up to facing adversity isn't ever easy, but we can learn to work through challenges we never thought ourselves able to survive.
+This isn't (just) a talk about Jim's experiences. It's a talk mean to help you learn to work through challenges you never thought you'd never be able to survive.
 
 
 ### <a name='backing_api'></a>Building a Custom Testing Framework
@@ -289,6 +289,26 @@ Sorry, we're not going to address anything about politicians. Handle that in you
 **Audience** Anyone
 
 [Slide deck (it's a bit gonzo)](https://speakerdeck.com/jimholmes/why)
+
+### <a name='techpaydown'></a> "Testers and Technical Debt"
+
+Testers normally see only the more obvious consequences of technical debt: lots of regressions, confusing behavior, and slow delivery of work.
+
+Testers can help drive significant organizational change. Why not use that superpower to help identify and pay down technical debt in your systems?
+
+This talk will help testers learn specific steps to address technical debt by stepping back and looking at the systems' fit across the broader organziation, including
+
+* Gathering data on tech debt impacts
+* Helping reach organizational consensus on whether or not to address technical debt
+* Weaving tech debt paydown work into regular feature work
+* Changing culture and practices that created tech debt in the first place
+
+**Takeaways**
+
+* Learn to approach technical debt as a business/organizational issue, not just a technical one
+* Learn to reach into broader areas of the organization such as customer service, sales, and executive sponsorship
+* Learn how to pay down technical debt while continuing delivery of new value
+
 
 ### <a name='omg'></a> "OMG! This Codebase Sucks!" Paying Down Technical Debt While Continuing to Deliver Value
  
