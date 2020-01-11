@@ -85,7 +85,7 @@ NOTE: This session can be either a one hour breakout session or a half-day pract
 
 ### <a name='leadership101Workshop'></a>Leadership 101
 
-(Four hour workshop)
+(Four to eight hour workshop)
 
 Have you worked for people you thought were great leaders, but weren't sure where they got that magic from? Have you seen people getting great results from their teams during difficult times and wanted to be able to get similar success with your own teams? Do you want to take on more responsibility in your career, but aren't sure how to get those opportunities? Leadership 101 will help you answer some of those questions! 
 
@@ -136,13 +136,7 @@ These talks are ones I've been giving regularly over the last couple years.
 
 ### <a name='you_got_this'></a>You Got This
 
-[NOTE: Prepping this talk for keynote at DevSpace 2018]
-
-Sometimes when we're stuck in the depths of struggles we forget how powerful we individual humans really are. It's easy to lose sight of our abilities and strengths when we're fighting through difficult relationships, bad work situations, or grief and trauma.
-
-Opening up to facing adversity isn't ever easy, but we can learn to work through challenges we never thought ourselves able to survive.
-
-***Alternative***
+[NOTE: Keynote at DevSpace 2018]
 
 This is an intense talk covering mental health, depression, suicidal thoughts, and an extraordinary front-page headlines tragedy that ripped my family apart.
 
@@ -169,17 +163,24 @@ Examples in C#, but the concepts apply to all stacks.
 
 **Audience:** Intermediate
 
-### <a name='key_wb_tips'></a>Five Key Tips To Write Better WebDriver Scripts
+### <a name='techpaydown'></a> "Testers and Technical Debt"
 
-Anyone can learn to write WebDriver scripts to help with automation and testing. Even team members with no coding experience can learn to help contribute value to their teams, and learn in fairly short order!
+Testers normally see only the more obvious consequences of technical debt: lots of regressions, confusing behavior, and slow delivery of work.
 
-This session is targeted to help team members write WebDriver code that's accurate, understandable, and maintainable. Learning these tips will help you and your teams write stable WebDriver scripts that won't require constant tweaking and maintenance.
+Testers can help drive significant organizational change. Why not use that superpower to help identify and pay down technical debt in your systems?
 
-Attendees will see practical demonstrations of concepts including the Page Object Pattern, good Locator strategy, dealing with asynchronous actions, and writing custom APIs (also called "backing APIs") to help facilitate better testing.
+This talk will help testers learn specific steps to address technical debt by stepping back and looking at the systems' fit across the broader organziation, including
 
-Additionally, we'll discuss why it's so important to team testers up with software developers in order to get the best out of testable systems.
+* Gathering data on tech debt impacts
+* Helping reach organizational consensus on whether or not to address technical debt
+* Weaving tech debt paydown work into regular feature work
+* Changing culture and practices that created tech debt in the first place
 
-Examples will be in C#, but Ruby and Java will also be discussed&mdash;or any other platforms the attendees ask about.
+**Takeaways**
+
+* Learn to approach technical debt as a business/organizational issue, not just a technical one
+* Learn to reach into broader areas of the organization such as customer service, sales, and executive sponsorship
+* Learn how to pay down technical debt while continuing delivery of new value
 
 ### <a name='culture'></a>Experience Report: Changing Testing Culture in a Ginormous Company
 
@@ -213,6 +214,18 @@ You'll see examples of good conversations used to help business focus on high-va
 Make sure you're getting the best quality coverage of your work!
 
 [Slide deck](https://speakerdeck.com/jimholmes/more-better-quality-coverage)
+
+### <a name='key_wb_tips'></a>Five Key Tips To Write Better WebDriver Scripts
+
+Anyone can learn to write WebDriver scripts to help with automation and testing. Even team members with no coding experience can learn to help contribute value to their teams, and learn in fairly short order!
+
+This session is targeted to help team members write WebDriver code that's accurate, understandable, and maintainable. Learning these tips will help you and your teams write stable WebDriver scripts that won't require constant tweaking and maintenance.
+
+Attendees will see practical demonstrations of concepts including the Page Object Pattern, good Locator strategy, dealing with asynchronous actions, and writing custom APIs (also called "backing APIs") to help facilitate better testing.
+
+Additionally, we'll discuss why it's so important to team testers up with software developers in order to get the best out of testable systems.
+
+Examples will be in C#, but Ruby and Java will also be discussed&mdash;or any other platforms the attendees ask about.
 
 ### <a name='beyond_basics'></a> Automated Testing: Beyond The Basics
 
@@ -290,24 +303,6 @@ Sorry, we're not going to address anything about politicians. Handle that in you
 
 [Slide deck (it's a bit gonzo)](https://speakerdeck.com/jimholmes/why)
 
-### <a name='techpaydown'></a> "Testers and Technical Debt"
-
-Testers normally see only the more obvious consequences of technical debt: lots of regressions, confusing behavior, and slow delivery of work.
-
-Testers can help drive significant organizational change. Why not use that superpower to help identify and pay down technical debt in your systems?
-
-This talk will help testers learn specific steps to address technical debt by stepping back and looking at the systems' fit across the broader organziation, including
-
-* Gathering data on tech debt impacts
-* Helping reach organizational consensus on whether or not to address technical debt
-* Weaving tech debt paydown work into regular feature work
-* Changing culture and practices that created tech debt in the first place
-
-**Takeaways**
-
-* Learn to approach technical debt as a business/organizational issue, not just a technical one
-* Learn to reach into broader areas of the organization such as customer service, sales, and executive sponsorship
-* Learn how to pay down technical debt while continuing delivery of new value
 
 
 ### <a name='omg'></a> "OMG! This Codebase Sucks!" Paying Down Technical Debt While Continuing to Deliver Value
