@@ -7,7 +7,7 @@ Jim is the owner/principal of Guidepost Systems where he works with organization
 
 He’s spent time in LAN/WAN and server management roles in addition to many years helping teams and customers deliver great systems. Jim has worked with organizations ranging from start ups to Fortune 10 companies to improve their delivery processes and ship better value to their customers.
 
-When not at work you might find Jim in the kitchen with a glass of wine, playing Xbox, hiking with his family, or banished to the garage while trying to practice his guitar.
+When not at work you might find Jim in the kitchen with a glass of wine, playing Xbox, hiking, or annoying folks within earshot of his guitar.
 
 **Gonzo** 
 
