@@ -10,9 +10,9 @@ I'm happy to work with you if there's something you'd like me to talk about or t
 
 Are you part of a software delivery team, but don't know how to write or read software code? Many testers, business analysts, program managers, and other "non-technical" team members (what a bad label!) are often intimidated by their lack of coding ability. This has a direct impact on team effectiveness, as it impairs good communication in tasks as simple as Three Amigo discussions, or active coding events like pairing or mobbing.
 
-Team members don't need to understand deep, technical aspects of software engineering to be effective contributers when coding. Everyone can make great inputs by understanding a few basics.
+Team members don't need to understand deep, technical aspects of software engineering to be effective contributors when coding. Everyone can make great inputs by understanding a few basics.
 
-This workshop is intended to help team members gain basic comfort at writing software. Workshop attendees will NOT leave this course experts in software engineering. They WILL leave having written four to ten unit tests and the ssytem code to make those tests pass! 
+This workshop is intended to help team members gain basic comfort at writing software. Workshop attendees will NOT leave this course experts in software engineering. They WILL leave having written four to ten unit tests and the system code to make those tests pass! 
 
 The goal of this workshop is to learn and understand the most basic fundamentals of how works: source code, compilers, interpreters, Integrated Development Environments, and automated testing frameworks. Attendees will spend a bit of time learning basic concepts, discussing and clarifying a basic software example problem, then move straight into firing up an IDE and writing some code. Coding will be done as pairs or groups ("mobs"), so no attendee should feel intimidated about struggling alone!
 
