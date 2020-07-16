@@ -3,7 +3,7 @@
 
 **Normal**
 
-Jim is the owner/principal of Guidepost Systems where he works with organizations trying to improve their software delivery process. He also works full-time for a huge global IT company that must remain un-named due to said corporation's policies... He’s known for his ability to help improve quality and value streams, and he’s also known for his deep background in test automation of all sorts. He has been in various corners of the IT world since joining the US Air Force in 1982.
+Jim is the owner/principal of Guidepost Systems where he works with organizations trying to improve their software delivery process. Jim has worked for various organizations ranging from over 600,000 employees to small shops with less than 20. He’s known for his ability to help improve quality and value streams at business and organizational levels. He's recognized internationally for his deep background in test automation of all sorts. He has been in various corners of the IT world since joining the US Air Force in 1982.
 
 He’s spent time in LAN/WAN and server management roles in addition to many years helping teams and customers deliver great systems. Jim has worked with organizations ranging from start ups to Fortune 10 companies to improve their delivery processes and ship better value to their customers.
 
