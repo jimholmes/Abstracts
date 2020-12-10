@@ -23,6 +23,8 @@ Small headshot: https://www.dropbox.com/s/pz2nd05ftq6ib0t/JimBulgaria-200x200.pn
 
 Large headshot: https://www.dropbox.com/s/wkqqi4008gyskze/JimBulgaria-SquareLarge.png?dl=0
 
+Semi-Professional: https://www.dropbox.com/s/1816d2olnox0skn/image00002.jpeg?dl=0
+
 
 # <a name='history'></a>Speaking History
 
