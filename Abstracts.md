@@ -136,7 +136,7 @@ These talks are ones I've been giving regularly over the last couple years.
 
 ### <a name='weightlifting'></a> Odd Parallels Between Weightlifting and Software Delivery
 
-Sometimes we find fascinating, useful lessons while working at two dramatically different things. Some years ago I started working with a trainer to work through Olympic-style weight lifting. Very quickly I found connections between that work and my "day job" helping software delivery teams improve how they created complex systems.
+Sometimes we find fascinating, useful lessons while working at two dramatically different things. Some years ago I started working with a trainer to learn technical Olympic-style weight lifting. Very quickly I found connections between that work and my "day job" helping software delivery teams improve how they created complex systems.
 
 This talk walks through a few parallels and how I found being coached helped me improve my own skill at coaching others. You'll (re)learn concepts such as the importance of having goals, breaking complex tasks into small pieces, getting repetitions in, and remembering that even smart, accomplished people make dumb mistakes.
 
