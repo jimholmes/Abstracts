@@ -11,7 +11,7 @@ When not at work you might find Jim in the kitchen with a glass of wine, playing
 
 **Gonzo** 
 
-Single Dad. Widower. Geek. Veteran. Noobie firemarms enthusiast. Around 35 years IT experience. Author of The Leadership Journey. Coffee Roaster.  Former Microsoft MVP for ALM.  Past President of  CodeMash Conference. Diabetic. Liked 5th grade so much he did it twice. One-time setter, middle blocker, and weakside hitter. Blogger (http://FrazzledDad.com). Big fan of naps.
+Single Dad. Widower. Geek. Veteran. Noobie firearms enthusiast. Around 35 years IT experience. Author of The Leadership Journey. Coffee Roaster.  Former Microsoft MVP for ALM.  Past President of  CodeMash Conference. Diabetic. Liked 5th grade so much he did it twice. One-time setter, middle blocker, and weakside hitter. Blogger (http://FrazzledDad.com). Big fan of naps.
 
 
 **Tiny**
