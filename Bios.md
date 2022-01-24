@@ -3,7 +3,7 @@
 
 **Normal**
 
-Jim is a Modernization Strategist/Coach at Centric Consulting. He works with organizations trying to improve their software delivery process. He's helped companies from Fortune 10 global organizations to small startups, and has spanned the automotive industry, healthcare, finance, and manufacturing. He’s known for his ability to help improve quality and value streams, and he’s also known for his deep background in test automation of all sorts. He has been in various corners of the IT world since joining the US Air Force in 1982.
+Jim is the Director of Quality Assurance and Performance at ConstructConnect. He leads a large team of testers working on products and services that help contractors bid, win, and manage commercial and government construction projects. Jim has a long career working with organizations trying to improve their software delivery process. He's helped companies from Fortune 10 global organizations to small startups, and has spanned the automotive industry, healthcare, finance, and manufacturing. He’s known for his ability to help improve quality and value streams, and he’s also known for his deep background in test automation of all sorts. He has been in various corners of the IT world since joining the US Air Force in 1982.
 
 He’s spent time in LAN/WAN and server management roles in addition to many years helping teams and customers deliver great systems. Jim is a regular on the global conference circuit, and has delivered workshops and keynotes on every continent except Antarctica. He's written extensively, including "The Leadership Journey", his book on mapping out one's leadership goals.
 
