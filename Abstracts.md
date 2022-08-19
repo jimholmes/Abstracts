@@ -37,9 +37,15 @@ In this workshop you'll learn tips for refining that story of yours into a good 
 
 You'll also learn critical aspects of presenting talks including managing stage fright, effective movement on stage, controlling audience interaction, hooking your audience into your story, and handling follow up communications.
 
+Full-day workshops will also give you an opportunity to practice a short talk and get feedback from the other attendees.
+
+This workshop is a Lean Coffee format: Attendees build the topics, and Jim will facilitate group discussion&mdash;plus sprinkle in his own experience and opinions.
+
 Learn how you can share that story that's bubbling inside you!
 
-** Agenda: **
+**Agenda:**
+
+Lean Coffee to drive attendee concepts. Topics generally include:
 
 * Why do public speaking?
 * Building the story (finding topic, clarifying, focusing)
@@ -50,10 +56,16 @@ Learn how you can share that story that's bubbling inside you!
 * Giving the talk (dealing with stage fright, mechanics, technical stuff)
 * Exercise/working groups
 * Lean Coffee to drive attendee concepts
-* Attendees build and deliver a three- to five-minute talk
+
+For full-day (8-hour) workshops attendees build and deliver a three- to five-minute talk
 
 
 **Audience:** Anyone
+
+**Format:** Lean Coffee facilitated discussion
+
+**Duration:** Four or eight hours
+
 
 
 ### <a name='test_webdriver'></a> Don't Let Your WebDriver Suite Drive You Crazy (Workshop)
@@ -133,6 +145,12 @@ You'll leave this workshop with a better understanding of leveraging your streng
 ## Current Presentations
 
 These talks are ones I've been giving regularly over the last couple years.
+
+### <a name='weightlifting'></a>What Weightlifting Taught me About Leadership
+
+Sometimes we find fascinating, useful lessons while working at two dramatically different things. Some years ago I started working with a trainer to learn technical Olympic-style weight lifting. Very quickly I found connections between that work and my "day job" helping software delivery teams improve how they created complex systems.
+
+This talk walks through a few parallels and how I found being coached helped me improve my own skill at coaching others. You'll (re)learn concepts such as the importance of having goals, breaking complex tasks into small pieces, the value of simplicity, setting goals, and the need to adapt to change.
 
 ### <a name='weightlifting'></a> Odd Parallels Between Weightlifting and Software Delivery
 
