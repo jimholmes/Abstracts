@@ -67,34 +67,6 @@ For full-day (8-hour) workshops attendees build and deliver a three- to five-min
 **Duration:** Four or eight hours
 
 
-
-### <a name='test_webdriver'></a> Don't Let Your WebDriver Suite Drive You Crazy (Workshop)
-Many teams are driven crazy by brittle, high-maintenance functional test suites. This workshop will help you understand how to create a flexible, maintainable, high-value suite of functional tests using Selenium Webdriver. You'll learn the basics of what to test, what not to test, and how to avoid overlapping with other types of testing.
-
-This tutorial includes both philosophical concepts and hands-on coding. Testers who haven't written code shouldn't be intimidated! We'll pair you up in make sure you're successful.
- 
-You'll create practical tests dealing with situations such as input validation, AJAX delays, and working with file downloads.   
-
-Additionally, you'll see where you need to work together with developers to create a system that's more easily testable. This session focuses primarily on automating web tests, but many of the same concepts can be applied to other UI environments too. 
-
-Demos and labs will be in C# and Java using WebDriver. Some support for Python and Ruby is available if needed. 
-
-You'll leave this session having learned how approaches to keep sane while writing high-value WebDriver tests.
-
-
-NOTE: This session can be either a one hour breakout session or a half-day practical hands-on workshop.
-
-**Key Takeaways**
-
-* Automate high-value, high-risk workflows
-* Don't duplicate tests that should be unit or integration
-* Learn how to properly handle asynchronous actions
-* Build custom APIs to make your tests simpler
-
-**Audience:** 100 - 300
-
-
-
 ### <a name='leadership101Workshop'></a>Leadership 101
 
 (Four to eight hour workshop)
@@ -164,47 +136,10 @@ This talk walks through a few parallels and how I found being coached helped me 
 
 This is an intense talk covering mental health, depression, suicidal thoughts, and an extraordinary front-page headlines tragedy that ripped my family apart.
 
-More importantly, this is a talk which discusses how strong and powerful we humans are when faced with soul-crushing trials. It's easy to lose sight of our abilities and strengths when we're fighting through incredibly hard times, but there are tools we can draw on to help us get through. Understanding concepts like Adriann Louw's work on pain, learning how to set boundaries, expressing grattitude, and above all learning to forgive ourselves are all crucial to dealing with hard times.
+More importantly, this is a talk which discusses how strong and powerful we humans are when faced with soul-crushing trials. It's easy to lose sight of our abilities and strengths when we're fighting through incredibly hard times, but there are tools we can draw on to help us get through. Understanding concepts like Adriann Louw's work on pain, learning how to set boundaries, expressing gratitude, and above all learning to forgive ourselves are all crucial to dealing with hard times.
 
-This isn't (just) a talk about Jim's experiences. It's a talk mean to help you learn to work through challenges you never thought you'd never be able to survive.
+This isn't (just) a talk about Jim's experiences. It's a talk meant to help you learn to work through challenges you never thought you'd never be able to survive.
 
-
-### <a name='backing_api'></a>Building a Custom Testing Framework
-
-Custom frameworks are crucial for building a great automated test suite. They're especially crucial when you're trying to bring closer collaboration between your testers and developers. Custom frameworks help both roles focus on what they do best, while bring great speed and flexibility to your test suites.
-
-In this session we'll walk through writing a custom framework that handles critical functions for any test suite, be it UI or integration. We'll write code that solves common problems, including:
-
-* Creating random, unique data for a test
-* Test data clean up
-* Manage complex business rule interaction via Domain Objects
-* Configure system capabilities, such as shutting off CAPTCHA
-* Handling authentication
-
-In passing we'll also discuss Page Objects and other crucial aspects of a well-designed, high-value, maintainable automated test suite.
-
-Examples in C#, but the concepts apply to all stacks.
-
-**Audience:** Intermediate
-
-### <a name='techpaydown'></a> "Testers and Technical Debt"
-
-Testers normally see only the more obvious consequences of technical debt: lots of regressions, confusing behavior, and slow delivery of work.
-
-Testers can help drive significant organizational change. Why not use that superpower to help identify and pay down technical debt in your systems?
-
-This talk will help testers learn specific steps to address technical debt by stepping back and looking at the systems' fit across the broader organziation, including
-
-* Gathering data on tech debt impacts
-* Helping reach organizational consensus on whether or not to address technical debt
-* Weaving tech debt paydown work into regular feature work
-* Changing culture and practices that created tech debt in the first place
-
-**Takeaways**
-
-* Learn to approach technical debt as a business/organizational issue, not just a technical one
-* Learn to reach into broader areas of the organization such as customer service, sales, and executive sponsorship
-* Learn how to pay down technical debt while continuing delivery of new value
 
 ### <a name='culture'></a>Experience Report: Changing Testing Culture in a Ginormous Company
 
@@ -239,17 +174,7 @@ Make sure you're getting the best quality coverage of your work!
 
 [Slide deck](https://speakerdeck.com/jimholmes/more-better-quality-coverage)
 
-### <a name='key_wb_tips'></a>Five Key Tips To Write Better WebDriver Scripts
 
-Anyone can learn to write WebDriver scripts to help with automation and testing. Even team members with no coding experience can learn to help contribute value to their teams, and learn in fairly short order!
-
-This session is targeted to help team members write WebDriver code that's accurate, understandable, and maintainable. Learning these tips will help you and your teams write stable WebDriver scripts that won't require constant tweaking and maintenance.
-
-Attendees will see practical demonstrations of concepts including the Page Object Pattern, good Locator strategy, dealing with asynchronous actions, and writing custom APIs (also called "backing APIs") to help facilitate better testing.
-
-Additionally, we'll discuss why it's so important to team testers up with software developers in order to get the best out of testable systems.
-
-Examples will be in C#, but Ruby and Java will also be discussed&mdash;or any other platforms the attendees ask about.
 
 ### <a name='beyond_basics'></a> Automated Testing: Beyond The Basics
 
@@ -354,25 +279,6 @@ This talk won't cover best practices (BECAUSE THERE AREN'T ANY) nor will it atte
 
 [Slide deck](https://speakerdeck.com/jimholmes/omg-this-codebase-sucks)
 
-### <a name='auto_all'></a> Let's Automate All 3,543 Manual Test Cases! Actually, Let's Not.
-
-User interface functional tests are the Sirens of automated testing: seductive, alluring voices that draw you in only to die a horrible death as your ship breaks apart on murderous shoals.
-
-UI automation is an incredibly hard, frustrating domain, and it's easy to get shipwrecked. In this talk you'll learn how to avoid breaking your team's motivation and will against those perilous shoals. Instead, you'll discover how to determine what to test by focusing on high-value use cases. You'll learn some of the many things you shouldn't be automating--and there are plenty! You'll also learn how to use your system itself to help speed up and bullet-proof your test suites.
-
-This talk won't give you any best practices. Instead you'll learn life- and sanity-saving guidelines for keeping your UI tests as a valuable part of your team's successful delivery chain.
-
-Life jackets not provided.
-
-### <a name='ten_tips'></a> Ten Practical Tips for Automated Testing of Web Applications
-
-60 minutes, ten takeaways for making solid functional User Interface tests of web applications. In this session we'll quickly cover the fundamentals of how automated web functional tests work, then dive into practical solutions you'll be able use on a daily basis. You'll see how to create maintainable tests using the Page Object Pattern, handle complex asynchronous (timing!) situations, and deal with common controls like complex grids, trees, calendars, and a number of other "interesting" automation scenarios.
-
-You'll leave this session armed with knowledge you can immediately apply to make your automated functional tests faster, more maintainable, and easier to write!
-
-**Level:** 200 - 300
-
-**Deck:** https://speakerdeck.com/jimholmes/ten-tips-for-better-web-ui-automation-tests
 
 ### <a name='not_about_you'></a> It's Not About You
 Why is it acceptable to have such horrible communication skills with those outside our cloistered group of technogeeks? Reality check: it's not acceptable. Our industry has a well-deserved reputation for poor communication with anyone who doesn't speak our language exactly, or those who are outside our little cliques. We routinely denigrate and ostracize folks who don't look or act like us, and we regularly insult or condescend to our stakeholders while forgetting they're the ones signing the checks-and who may have put their entire careers on the line for the projects we're running.
@@ -410,40 +316,7 @@ You'll leave this session with ideas based on Jim's successes - and you'll have 
 
 **Deck:** https://speakerdeck.com/jimholmes/that-sounds-great-in-theory-but-dot-dot-dot
 
-### <a name=''></a> Four Crucial Tips for Automating Your Web Tests
- 
-Functional testing your web applications can be extraordinarily frustrating. Intermittent failures, lots of rework and tinkering, and too little time spent on creating new value for your customers.
-In this session Jim Holmes will help you understand a few crucial tips to help you get a successful web automation test suite in place: test the right things, understand good locators, handle asynchronous operations properly, and create a backing infrastructure to help you write better tests.
-We'll use WebDriver for examples and demos in C#, but we'll discuss how these solutions are applicable to other technologies as well. Take away proven methods for ensuring your functional web tests are more robust, accurate, and maintainable.
-**Audience:** 200
-**Deck:** https://speakerdeck.com/jimholmes/four-tips-for-web-automation
 
-
-### <a name='whyuno'></a> Why U No Test Yur UI?
- 
-Developers and testers with thousands of smoothly running unit tests have been known to run screaming like little kids away from user interface tests. While those geeks are cowering in terror under the bed (when has that ever worked in the movies?) instead of writing functional or UI tests, significant portions of your application are going unchecked.
-
-What's the source of all this fear, and can teams learn to overcome it and learn some basic concepts to create stable, low-friction, valuable tests around their user interfaces? Of course they can, otherwise this session would be pointless.
-
-Attendees will learn the two major areas of grief for UI testing: locators and dynamic (asynchronous) content/controls. You'll learn the fundamentals of both those problem areas and practical approaches for overcoming their challenges. You'll take away tips for great UI tests which you'll be able to apply at your work the next day.
-
-Once you get out from under the bed, that is.
-
-**Audience:** 200
-
-### <a name='dont_fear'></a> Don't Fear Automated Testing
-
-This session is aimed at the non-technical tester, or at least the not-technical enough tester.  It will also be of value if you are a 'technical' tester but are confused around differing definitions for terms like "integration test.'
-  
-In either case, this talk is for you.
- 
-In this presentation you'll learn definitions of unit, integration, and functional tests. You'll see demonstrations of each type of test, and you'll also discover what concepts like continuous integration mean, and how they dramatically impact your project's overall quality. You'll learn why a mix of automated tests is critical to shipping high-quality software. You'll also learn why automation is not the SOLE piece of the testing puzzle, and why manual testing is still extraordinarily important! You'll see what unit, integration, and functional tests look like - yes, actual software code! You'll discover how pairing up with developers to provide feedback can result in dramatically improved test coverage - even though you don't know how to write code.
-
-You'll learn a bit about different automated test types, and you'll also see how several different tools, frameworks, and APIs are used. (You'll even learn what API means!)
-
-You'll leave this session with a better understanding of how your testing expertise can add to your project's overall quality, even in the mysterious realm of test automation!
-
-**Audience:** 100 - 200
 
 ### <a name='collab'></a> Developer/Tester Collaboration: The Practical Side
  
@@ -480,27 +353,6 @@ Note: while this talk focuses on Selenium, many of the principles apply to an fu
 
 **Audience:** 100 - 200
 
-### <a name=''></a> Test Automation Isn't All Shiny Toys
-
-Building a suite of automated tests for your project is a critical aspect of success-it can also be a contributor to your project's failure if you don't approach testing with the same care you take with the system you're delivering. This talk covers fundamental topics including setting up the right infrastructure, treating your test code the same as your production code, dealing with maintainability issues, and handling long-running test suites. We also cover why collaborating with developers can get you great benefits such as backing APIs and assistance with good test design.
-
-We'll also cover more advanced topics such as wrapping combinatorial or pairwise approaches to help you cut your testability matrices while still keeping great coverage.
-
-The talk is targeted primarily at functional tests; however, we'll also discuss how the same concepts apply to integration and unit tests. The talk is also tool-agnostic: we'll discuss Selenium, Watir, MS Web Test, and Telerik's Test Studio.
-
-You'll leave this talk having learned practical, proven ways to avoid common automation pitfalls. This talk is based on my years of work with automation teams on a number of different platforms, plus discussing shared pain, failures, and successes with others passionate about the value automation brings to every software project.
-
-**Audience:** 100 - 200
-
-### <a name='three_tips'></a> 3 Tips to Improve Your Development Process
-
-It doesn't matter if you're doing Agile or if you're working in an environment like RUP or CMMI, there are several things you can do to improve your development process.  This highly interactive session will show you three specific tips: improve your estimation, use a daily standup to keep a close focus on your progress, and work in retrospectives to empower your team's ability to drastically improve your entire software development process, regardless of what that process is, even if it's no process! You'll leave this session with a handle on ways to smooth out your project's environment.
-
-**Audience:** 200
-
-Feedback:
-"Jim really hit the points home as to what we need to improve our processes in general. The best quote that I got from this talk was `It's estimation, not exactimation.'" Sarah Dutkiewicz,  http://is.gd/2ouuW
-
 ### <a name='distrib'></a> Making Distributed Teams Work (Effectively, Even!)
 
 Working with distributed teams can cause extreme frustration, slower velocity for releases, and outright failures of successful completion of your projects - but it doesn't have to be this way! Distributed teams can help you bring great value to your customers, but you'll need a much different approach and mindset to make your teams work effectively.
@@ -511,19 +363,6 @@ This session will walk you through critical aspects of effective distributed tea
 
 **Audience:** 100 - 200
 
-### <a name=''></a> Introduction to Unit Testing
-Unit testing can save you time, money, and frustration by helping you create a safety net around your software to guarantee its stability and quality. 
-
-This introductory session is nearly all code and sets aside any testing methodologies such as Test or Behavioral Driven Development. Instead, you'll discover the fundamentals of what unit tests are, how to write them, and some differences between the most popular unit test frameworks. You'll also learn about organizing tests, creating test hierarchies, and heading off painful or brittle tests. You'll also learn how to isolate dependencies using stubs, fakes, and mocks. You'll leave this session with an understanding of how to get started writing unit tests.
-
-Examples are in C# using NUnit and JustMock; however, the fundamentals apply to nearly every testing platform in most languages.
-
-**Audience:** 100 - 200
-
-Videos of this talk available online:
-
-* Part 1: http://www.viddler.com/v/5aad71e5
-* Part 2: http://www.viddler.com/v/9e4b81b1
 
 
 ### <a name=''></a> Leadership 101
@@ -547,6 +386,180 @@ Feedback:
 # Retired Presentations
 
 For whatever reason, these presentations are now pushing up daisies. If for some reason you find something interesting here, ping me and we can discuss digging these up and resurrecting them.
+
+### <a name='key_wb_tips'></a>Five Key Tips To Write Better WebDriver Scripts
+
+Anyone can learn to write WebDriver scripts to help with automation and testing. Even team members with no coding experience can learn to help contribute value to their teams, and learn in fairly short order!
+
+This session is targeted to help team members write WebDriver code that's accurate, understandable, and maintainable. Learning these tips will help you and your teams write stable WebDriver scripts that won't require constant tweaking and maintenance.
+
+Attendees will see practical demonstrations of concepts including the Page Object Pattern, good Locator strategy, dealing with asynchronous actions, and writing custom APIs (also called "backing APIs") to help facilitate better testing.
+
+Additionally, we'll discuss why it's so important to team testers up with software developers in order to get the best out of testable systems.
+
+Examples will be in C#, but Ruby and Java will also be discussed&mdash;or any other platforms the attendees ask about.
+
+### <a name='auto_all'></a> Let's Automate All 3,543 Manual Test Cases! Actually, Let's Not.
+
+User interface functional tests are the Sirens of automated testing: seductive, alluring voices that draw you in only to die a horrible death as your ship breaks apart on murderous shoals.
+
+UI automation is an incredibly hard, frustrating domain, and it's easy to get shipwrecked. In this talk you'll learn how to avoid breaking your team's motivation and will against those perilous shoals. Instead, you'll discover how to determine what to test by focusing on high-value use cases. You'll learn some of the many things you shouldn't be automating--and there are plenty! You'll also learn how to use your system itself to help speed up and bullet-proof your test suites.
+
+This talk won't give you any best practices. Instead you'll learn life- and sanity-saving guidelines for keeping your UI tests as a valuable part of your team's successful delivery chain.
+
+Life jackets not provided.
+
+### <a name='ten_tips'></a> Ten Practical Tips for Automated Testing of Web Applications
+
+60 minutes, ten takeaways for making solid functional User Interface tests of web applications. In this session we'll quickly cover the fundamentals of how automated web functional tests work, then dive into practical solutions you'll be able use on a daily basis. You'll see how to create maintainable tests using the Page Object Pattern, handle complex asynchronous (timing!) situations, and deal with common controls like complex grids, trees, calendars, and a number of other "interesting" automation scenarios.
+
+You'll leave this session armed with knowledge you can immediately apply to make your automated functional tests faster, more maintainable, and easier to write!
+
+**Level:** 200 - 300
+
+**Deck:** https://speakerdeck.com/jimholmes/ten-tips-for-better-web-ui-automation-tests
+
+### <a name=''></a> Four Crucial Tips for Automating Your Web Tests
+ 
+Functional testing your web applications can be extraordinarily frustrating. Intermittent failures, lots of rework and tinkering, and too little time spent on creating new value for your customers.
+In this session Jim Holmes will help you understand a few crucial tips to help you get a successful web automation test suite in place: test the right things, understand good locators, handle asynchronous operations properly, and create a backing infrastructure to help you write better tests.
+We'll use WebDriver for examples and demos in C#, but we'll discuss how these solutions are applicable to other technologies as well. Take away proven methods for ensuring your functional web tests are more robust, accurate, and maintainable.
+**Audience:** 200
+**Deck:** https://speakerdeck.com/jimholmes/four-tips-for-web-automation
+
+### <a name='whyuno'></a> Why U No Test Yur UI?
+ 
+Developers and testers with thousands of smoothly running unit tests have been known to run screaming like little kids away from user interface tests. While those geeks are cowering in terror under the bed (when has that ever worked in the movies?) instead of writing functional or UI tests, significant portions of your application are going unchecked.
+
+What's the source of all this fear, and can teams learn to overcome it and learn some basic concepts to create stable, low-friction, valuable tests around their user interfaces? Of course they can, otherwise this session would be pointless.
+
+Attendees will learn the two major areas of grief for UI testing: locators and dynamic (asynchronous) content/controls. You'll learn the fundamentals of both those problem areas and practical approaches for overcoming their challenges. You'll take away tips for great UI tests which you'll be able to apply at your work the next day.
+
+Once you get out from under the bed, that is.
+
+**Audience:** 200
+
+
+
+
+### <a name='dont_fear'></a> Don't Fear Automated Testing
+
+This session is aimed at the non-technical tester, or at least the not-technical enough tester.  It will also be of value if you are a 'technical' tester but are confused around differing definitions for terms like "integration test.'
+  
+In either case, this talk is for you.
+ 
+In this presentation you'll learn definitions of unit, integration, and functional tests. You'll see demonstrations of each type of test, and you'll also discover what concepts like continuous integration mean, and how they dramatically impact your project's overall quality. You'll learn why a mix of automated tests is critical to shipping high-quality software. You'll also learn why automation is not the SOLE piece of the testing puzzle, and why manual testing is still extraordinarily important! You'll see what unit, integration, and functional tests look like - yes, actual software code! You'll discover how pairing up with developers to provide feedback can result in dramatically improved test coverage - even though you don't know how to write code.
+
+You'll learn a bit about different automated test types, and you'll also see how several different tools, frameworks, and APIs are used. (You'll even learn what API means!)
+
+You'll leave this session with a better understanding of how your testing expertise can add to your project's overall quality, even in the mysterious realm of test automation!
+
+**Audience:** 100 - 200
+
+### <a name=''></a> Test Automation Isn't All Shiny Toys
+
+Building a suite of automated tests for your project is a critical aspect of success-it can also be a contributor to your project's failure if you don't approach testing with the same care you take with the system you're delivering. This talk covers fundamental topics including setting up the right infrastructure, treating your test code the same as your production code, dealing with maintainability issues, and handling long-running test suites. We also cover why collaborating with developers can get you great benefits such as backing APIs and assistance with good test design.
+
+We'll also cover more advanced topics such as wrapping combinatorial or pairwise approaches to help you cut your testability matrices while still keeping great coverage.
+
+The talk is targeted primarily at functional tests; however, we'll also discuss how the same concepts apply to integration and unit tests. The talk is also tool-agnostic: we'll discuss Selenium, Watir, MS Web Test, and Telerik's Test Studio.
+
+You'll leave this talk having learned practical, proven ways to avoid common automation pitfalls. This talk is based on my years of work with automation teams on a number of different platforms, plus discussing shared pain, failures, and successes with others passionate about the value automation brings to every software project.
+
+**Audience:** 100 - 200
+
+### <a name='three_tips'></a> 3 Tips to Improve Your Development Process
+
+It doesn't matter if you're doing Agile or if you're working in an environment like RUP or CMMI, there are several things you can do to improve your development process.  This highly interactive session will show you three specific tips: improve your estimation, use a daily standup to keep a close focus on your progress, and work in retrospectives to empower your team's ability to drastically improve your entire software development process, regardless of what that process is, even if it's no process! You'll leave this session with a handle on ways to smooth out your project's environment.
+
+**Audience:** 200
+
+Feedback:
+"Jim really hit the points home as to what we need to improve our processes in general. The best quote that I got from this talk was `It's estimation, not exactimation.'" Sarah Dutkiewicz,  http://is.gd/2ouuW
+
+
+### <a name=''></a> Introduction to Unit Testing
+Unit testing can save you time, money, and frustration by helping you create a safety net around your software to guarantee its stability and quality. 
+
+This introductory session is nearly all code and sets aside any testing methodologies such as Test or Behavioral Driven Development. Instead, you'll discover the fundamentals of what unit tests are, how to write them, and some differences between the most popular unit test frameworks. You'll also learn about organizing tests, creating test hierarchies, and heading off painful or brittle tests. You'll also learn how to isolate dependencies using stubs, fakes, and mocks. You'll leave this session with an understanding of how to get started writing unit tests.
+
+Examples are in C# using NUnit and JustMock; however, the fundamentals apply to nearly every testing platform in most languages.
+
+**Audience:** 100 - 200
+
+Videos of this talk available online:
+
+* Part 1: http://www.viddler.com/v/5aad71e5
+* Part 2: http://www.viddler.com/v/9e4b81b1
+
+### <a name='techpaydown'></a> "Testers and Technical Debt"
+
+Testers normally see only the more obvious consequences of technical debt: lots of regressions, confusing behavior, and slow delivery of work.
+
+Testers can help drive significant organizational change. Why not use that superpower to help identify and pay down technical debt in your systems?
+
+This talk will help testers learn specific steps to address technical debt by stepping back and looking at the systems' fit across the broader organziation, including
+
+* Gathering data on tech debt impacts
+* Helping reach organizational consensus on whether or not to address technical debt
+* Weaving tech debt paydown work into regular feature work
+* Changing culture and practices that created tech debt in the first place
+
+**Takeaways**
+
+* Learn to approach technical debt as a business/organizational issue, not just a technical one
+* Learn to reach into broader areas of the organization such as customer service, sales, and executive sponsorship
+* Learn how to pay down technical debt while continuing delivery of new value
+
+
+### <a name='backing_api'></a>Building a Custom Testing Framework
+
+Custom frameworks are crucial for building a great automated test suite. They're especially crucial when you're trying to bring closer collaboration between your testers and developers. Custom frameworks help both roles focus on what they do best, while bring great speed and flexibility to your test suites.
+
+In this session we'll walk through writing a custom framework that handles critical functions for any test suite, be it UI or integration. We'll write code that solves common problems, including:
+
+* Creating random, unique data for a test
+* Test data clean up
+* Manage complex business rule interaction via Domain Objects
+* Configure system capabilities, such as shutting off CAPTCHA
+* Handling authentication
+
+In passing we'll also discuss Page Objects and other crucial aspects of a well-designed, high-value, maintainable automated test suite.
+
+Examples in C#, but the concepts apply to all stacks.
+
+**Audience:** Intermediate
+
+
+
+### <a name='test_webdriver'></a> Don't Let Your WebDriver Suite Drive You Crazy (Workshop)
+Many teams are driven crazy by brittle, high-maintenance functional test suites. This workshop will help you understand how to create a flexible, maintainable, high-value suite of functional tests using Selenium Webdriver. You'll learn the basics of what to test, what not to test, and how to avoid overlapping with other types of testing.
+
+This tutorial includes both philosophical concepts and hands-on coding. Testers who haven't written code shouldn't be intimidated! We'll pair you up in make sure you're successful.
+ 
+You'll create practical tests dealing with situations such as input validation, AJAX delays, and working with file downloads.   
+
+Additionally, you'll see where you need to work together with developers to create a system that's more easily testable. This session focuses primarily on automating web tests, but many of the same concepts can be applied to other UI environments too. 
+
+Demos and labs will be in C# and Java using WebDriver. Some support for Python and Ruby is available if needed. 
+
+You'll leave this session having learned how approaches to keep sane while writing high-value WebDriver tests.
+
+
+NOTE: This session can be either a one hour breakout session or a half-day practical hands-on workshop.
+
+**Key Takeaways**
+
+* Automate high-value, high-risk workflows
+* Don't duplicate tests that should be unit or integration
+* Learn how to properly handle asynchronous actions
+* Build custom APIs to make your tests simpler
+
+**Audience:** 100 - 300
+
+
+
+
 
 ### <a name=''></a> Testing Web Applications with Selenium
 
