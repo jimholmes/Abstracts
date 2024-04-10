@@ -3,11 +3,11 @@
 
 **Normal**
 
-Jim is the Director of Quality Assurance and Performance at ConstructConnect. He leads a large team of testers working on products and services that help contractors bid, win, and manage commercial and government construction projects. Jim has a long career working with organizations trying to improve their software delivery process. He's helped companies from Fortune 10 global organizations to small startups, and has spanned the automotive industry, healthcare, finance, and manufacturing. He’s known for his ability to help improve quality and value streams, and he’s also known for his deep background in test automation of all sorts. He has been in various corners of the IT world since joining the US Air Force in 1982.
+Jim has held front-line and leadership positions at organizations ranging from startups to Fortune 10. He's worked in diverse domains from the military to automotive and finance. He’s known for his ability to help improve quality and value streams, and he’s also known for his deep background in test automation of all sorts. He has been in various corners of the IT world since joining the US Air Force in 1982.
 
-He’s spent time in LAN/WAN and server management roles in addition to many years helping teams and customers deliver great systems. Jim is a regular on the global conference circuit, and has delivered workshops and keynotes on every continent except Antarctica. He's written extensively, including "The Leadership Journey", his book on mapping out one's leadership goals.
+He’s spent time in LAN/WAN and server management roles in addition to many years helping teams and customers deliver great systems. Jim was a regular on the international conference circuit and has delivered workshops and keynotes on every continent except Antarctica. He's written extensively, including "The Leadership Journey", his book on mapping out one's leadership goals.
 
-When not at work you might find Jim in the kitchen with a glass of wine, playing Xbox, hiking, or annoying folks within earshot of his guitar.
+Jim currently spends his days helping regional volunteer organizations, mentoring people to help them improve their leadership skills, or playing with his dogs.
 
 **Gonzo** 
 
